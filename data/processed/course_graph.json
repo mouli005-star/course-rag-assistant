@@ -1,0 +1,501 @@
+{
+  "ENGL1301": [],
+  "BUSI1307": [],
+  "HIST1301": [],
+  "PSYC2301": [],
+  "PSYC2314": [],
+  "ACCT2301": [],
+  "BIOL1406": [],
+  "GOVT2305": [],
+  "CHEM1411": [
+    "MATH1314"
+  ],
+  "COSC1336": [],
+  "MATH2413": [],
+  "KINE1301": [],
+  "KINE2356": [],
+  "KINE1306": [],
+  "PHED1338": [],
+  "MATH1350": [],
+  "SPCH1315": [],
+  "AUMT1305": [],
+  "AUMT1416": [],
+  "AUMT1410": [],
+  "CDEC1303/TECA1303": [],
+  "CDEC2307": [],
+  "CDEC2366": [
+    "CDEC1366"
+  ],
+  "CSME1401": [],
+  "CSME2541": [],
+  "CSME1430": [],
+  "BARB1404": [],
+  "CJSA1322/CRIJ1301": [],
+  "CJSA1348": [],
+  "CJSA1342/CRIJ2314": [],
+  "FIRS1301": [],
+  "FIRS1319": [],
+  "FIRT1329": [],
+  "ENGL2311": [],
+  "HART2438": [],
+  "HART2436": [],
+  "BMGT1483": [],
+  "CETT1402": [],
+  "HART1407": [],
+  "BMGT1482": [],
+  "BMGT1327": [],
+  "BUSI1301": [],
+  "RELE1406": [],
+  "WLDG1435": [
+    "WLDG1421INTROTOWELDINGFUNDAMENTALS"
+  ],
+  "WLDG1421": [],
+  "BIOL2401": [
+    "COLLEGEREADYINREADINGANDWRITING",
+    "BIOLOGY1406OR1413",
+    "APPROVALOFCHAIRPERSON"
+  ],
+  "MDCA1313": [],
+  "NURA1301": [],
+  "PHRA1301": [],
+  "RSPT1201": [],
+  "BIOL2421": [],
+  "SRGT1405": [],
+  "SRGT1442": [],
+  "ACCT2302": [
+    "ACCT2301"
+  ],
+  "ACNT1303": [
+    "ACCT2301"
+  ],
+  "AGRI1131": [],
+  "AGRI1311": [],
+  "AGRI1419": [],
+  "AGRI2301": [],
+  "AGRI2317": [],
+  "ANTH2346": [],
+  "ARTS1303": [],
+  "ARTS1311": [],
+  "ARTS1317": [
+    "ARTS1316"
+  ],
+  "ARTS2313": [],
+  "ARTS2317": [
+    "ARTS2316"
+  ],
+  "ARTS2341": [],
+  "ARTS2389": [
+    "ARTS1311"
+  ],
+  "AUMT2313": [],
+  "AUMT2417": [],
+  "AUMT2443": [],
+  "DEMR1406": [],
+  "BIOL1407": [
+    "BIOL1406"
+  ],
+  "BIOL1409": [],
+  "BIOL1411": [
+    "MATH1314COLLEGEALGEBRA"
+  ],
+  "BIOL2289": [],
+  "BIOL2402": [
+    "COLLEGEREADYINREADINGANDWRITING",
+    "BIOLOGY2401",
+    "ORAPPROVALOFCHAIRPERSON"
+  ],
+  "BCIS1305": [],
+  "ACNT1304": [
+    "ACNT1303"
+  ],
+  "ACNT1311": [
+    "ACNT1303"
+  ],
+  "BMGT1391": [],
+  "BMGT2303": [],
+  "BMGT2311": [],
+  "BUSG1302": [],
+  "BUSG1341": [],
+  "BUSI2301": [],
+  "HRPO2301": [],
+  "ITSC1301": [],
+  "ITSW1410": [
+    "POFI2301WORDPROCESSING"
+  ],
+  "POFI2301": [
+    "ITSW1301"
+  ],
+  "POFI2486": [],
+  "POFT1309": [],
+  "POFT2312": [],
+  "POFT2433": [
+    "POFT2301"
+  ],
+  "CHEM1405": [
+    "MATH0402OREQUIVALENT"
+  ],
+  "CHEM1407": [],
+  "CHEM1412": [
+    "CHEM1411"
+  ],
+  "CHEM2389": [],
+  "CHEM2423": [
+    "CHEMISTRY1412"
+  ],
+  "CHEM2425": [
+    "CHEMISTRY2423"
+  ],
+  "CDEC1313": [],
+  "CDEC1318/TECA1318": [],
+  "CDEC1321": [],
+  "CDEC1335": [],
+  "CDEC1358": [],
+  "CDEC1417": [],
+  "CDEC2326": [],
+  "CDEC2422": [],
+  "COMM1307": [],
+  "COMM1335": [],
+  "COMM2311": [
+    "ENGL1301"
+  ],
+  "COMM2339": [],
+  "COSC1315": [],
+  "COSC1337": [],
+  "COSC2325": [
+    "COSC1336",
+    "COSC1436"
+  ],
+  "COSC2336": [
+    "COSC1337",
+    "COSC1437"
+  ],
+  "BARB1402": [
+    "COSMETOLOGYLICENSE",
+    "BARBERCLASSAFIRSTSEMESTERCOURSES",
+    "APPROVALBYCOSMETOLOGYDIRECTOR"
+  ],
+  "BARB1442": [
+    "COSMETOLOGYLICENSE",
+    "BARBERCLASSAFIRSTSEMESTERCOURSES",
+    "APPROVALBYCOSMETOLOGYDIRECTOR"
+  ],
+  "BARB2431": [
+    "COSMETOLOGYLICENSE",
+    "BARBERCLASSAFIRSTSEMESTERCOURSES",
+    "APPROVALBYCOSMETOLOGYDIRECTOR"
+  ],
+  "BARB2441": [
+    "COSMETOLOGYLICENSE",
+    "BARBERCLASSAFIRSTSEMESTERCOURSES",
+    "APPROVALBYCOSMETOLOGYDIRECTOR"
+  ],
+  "CSME1310": [],
+  "CSME1435": [
+    "CURRENTTEXASLICENSE"
+  ],
+  "CSME1447": [],
+  "CSME1451": [],
+  "CSME2237": [],
+  "CSME2342": [],
+  "CSME2401": [],
+  "CSME2445": [],
+  "CJCR1304": [],
+  "CJLE1111": [],
+  "CJLE1345": [],
+  "CJLE2345": [],
+  "CJSA1317/CRIJ1313": [],
+  "CJSA1327/CRIJ1310": [],
+  "CJSA1359/CRIJ2328": [],
+  "CJSA2300/CRIJ2323": [],
+  "CJSA2334": [],
+  "DESS0101": [],
+  "DERW0302": [],
+  "DESL0301": [],
+  "DMAT0314": [
+    "TESTPLACEMENT",
+    "VERIFIEDSTEMMAJOR"
+  ],
+  "DMAT0324": [
+    "TESTPLACEMENT"
+  ],
+  "DMAT0332": [
+    "TESTPLACEMENT"
+  ],
+  "DEMR1401": [],
+  "DEMR1413": [],
+  "DEMR2439": [],
+  "DRAM1310": [],
+  "DRAM1341": [],
+  "DRAM1352": [
+    "DRAM1351"
+  ],
+  "DRAM2121": [
+    "THEATERSCHOLARSHIPORPERMISSIONOFTHEINSTRUCTOR"
+  ],
+  "DRAM2355": [],
+  "DRAM2336": [],
+  "ECON2301": [],
+  "ECON2302": [],
+  "EDUC1100": [],
+  "EDUC1300": [],
+  "EDUC1301": [],
+  "EDUC2301": [
+    "EDUC1301"
+  ],
+  "ENGR1201": [
+    "MATH1314COLLEGEALGEBRAOREQUIVALENT"
+  ],
+  "ENGR2301": [
+    "PHYS2425UNIVERSITYPHYSICSI"
+  ],
+  "ENGR2308": [
+    "MATH2413CALCULUSI(4SCHVERSION)"
+  ],
+  "ENGL2307": [],
+  "ENGL2321": [
+    "ENGL1301",
+    "ENGL1302"
+  ],
+  "ENGL2323": [
+    "ENGL1301",
+    "ENGL1302"
+  ],
+  "ENGL2327": [
+    "ENGL1301",
+    "ENGL1302"
+  ],
+  "ENGL2328": [
+    "ENGL1301",
+    "ENGL1302"
+  ],
+  "ENGL2332": [
+    "ENGL1301",
+    "ENGL1302"
+  ],
+  "ENGL2341": [
+    "ENGL1301",
+    "ENGL1302"
+  ],
+  "ENGL2389": [
+    "ENGL1301",
+    "ENGL1302"
+  ],
+  "ENVR1402": [],
+  "FIRS1313": [],
+  "FIRS1323": [],
+  "FIRS1407": [],
+  "EMSP2237": [],
+  "EMSP1261": [],
+  "FIRT1307": [],
+  "FIRT1319": [],
+  "FIRT1342": [],
+  "FIRT1353": [],
+  "FIRT2305": [],
+  "FIRT2309": [],
+  "FREN2311": [
+    "FREN1412",
+    "ADVANCEDSTANDINGBYEXAMINATION"
+  ],
+  "FREN2312": [
+    "FREN2311"
+  ],
+  "GEOL2389": [],
+  "GERM1412": [
+    "GERM1411"
+  ],
+  "GERM2311": [
+    "GERM1412",
+    "ADVANCEDSTANDINGBYEXAMINATION"
+  ],
+  "GOVT2306": [],
+  "HIST1302": [],
+  "HIST2322": [],
+  "HUMA1315": [],
+  "ELPT1421": [],
+  "ELPT1429": [],
+  "ELPT2449": [],
+  "HART1441": [],
+  "HART2434": [],
+  "HART2441": [
+    "HART1407"
+  ],
+  "HYDR1345": [],
+  "IEIR1410": [
+    "CETT1402"
+  ],
+  "MCHN1320": [],
+  "MCHN2403": [],
+  "MCHN2434": [],
+  "WDWK1313": [],
+  "KINE1102": [],
+  "KINE1321": [],
+  "KINE1338": [],
+  "KINE2101": [],
+  "KINE2358": [],
+  "MATH1314": [
+    "MEETTSICOLLEGEREADINESSSTANDARDFORMATHEMATICS",
+    "HIGHSCHOOLALGEBRAI&II"
+  ],
+  "MATH1324": [],
+  "MATH1325": [
+    "MATH1324",
+    "MATH1314"
+  ],
+  "MATH1342": [
+    "MEETTSICOLLEGEREADINESSSTANDARDFORMATHEMATICS",
+    "HIGHSCHOOLALGEBRAI&II"
+  ],
+  "MATH1351": [
+    "MATH1314COLLEGEALGEBRA(3SCHVERSION)OREQUIVALENT"
+  ],
+  "MATH2412": [
+    "MEETTSICOLLEGEREADINESSSTANDARDFORMATHEMATICS",
+    "HIGHSCHOOLALGEBRAI&II",
+    "MATH1314"
+  ],
+  "MATH2414": [
+    "MATH2413"
+  ],
+  "MATH2415": [
+    "MATH2414"
+  ],
+  "HITT1313": [
+    "MDCA1313",
+    "MCDA1409"
+  ],
+  "MDCA1310": [],
+  "MDCA1343": [],
+  "MDCA1409": [],
+  "MDCA1452": [],
+  "MDCA2460": [],
+  "MUAP1137,1237": [],
+  "MUAP1181,1281": [],
+  "MUEN1132": [],
+  "MUEN1133": [],
+  "MUEN1151": [
+    "AUDITION",
+    "INSTRUCTORPERMISSION"
+  ],
+  "MUEN1251": [
+    "AUDITION",
+    "INSTRUCTORPERMISSION"
+  ],
+  "MUSI1306": [],
+  "MUSI1312": [],
+  "MUSI2116": [],
+  "MUSI2312": [],
+  "HPRS1101": [],
+  "HPRS2332": [],
+  "RNSG1137": [],
+  "RNSG1209": [],
+  "RNSG1361": [],
+  "RNSG1424": [],
+  "RNSG1538": [],
+  "RNSG2238": [],
+  "RNSG2539": [],
+  "VNSG1160": [],
+  "VNSG1234": [],
+  "VNSG1304": [],
+  "VNSG1331": [],
+  "VNSG1432": [],
+  "VNSG2161": [],
+  "VNSG2260": [],
+  "PHRA1143": [],
+  "PHRA1209": [],
+  "PHRA1247": [],
+  "PHRA1306": [],
+  "PHRA1340": [],
+  "PHRA1349": [],
+  "PHRA1441": [],
+  "PHRA2260": [],
+  "PHRA2460": [],
+  "PHIL1301": [],
+  "PHED1331": [],
+  "PHYS1401": [
+    "MATH2412",
+    "MATH1316"
+  ],
+  "PHYS1403": [],
+  "PHYS1404": [],
+  "PHYS2425": [
+    "MATH2413",
+    "APPROVALOFCHAIRPERSON"
+  ],
+  "PSYC2317": [],
+  "PSYC2320": [
+    "PSYC2301"
+  ],
+  "RELE1300": [],
+  "RELE1307": [],
+  "RELE1315": [],
+  "RELE1321": [],
+  "RELE2331": [],
+  "RSPT1141": [
+    "RSPT2210",
+    "RSPT1340",
+    "RSPT2317",
+    "RSPT2266"
+  ],
+  "RSPT1261": [
+    "RSPT1207"
+  ],
+  "RSPT1340": [],
+  "RSPT2139": [
+    "RSPT1160"
+  ],
+  "RSPT2167": [
+    "RSPT2267"
+  ],
+  "RSPT2210": [
+    "RSPT1340"
+  ],
+  "RSPT2231": [
+    "RSPT2267",
+    "RSPT1141",
+    "RSPT1329",
+    "RSPT1240",
+    "RSPT2210",
+    "RSPT1101",
+    "RSPT2317",
+    "RSPT2314",
+    "RSPT2353"
+  ],
+  "RSPT2267": [
+    "RSPT2266"
+  ],
+  "RSPT2355": [
+    "RSPT2314",
+    "RSPT2210",
+    "RSPT1240",
+    "RSPT2266"
+  ],
+  "SOCI1301": [],
+  "SOCI2301": [],
+  "SPAN1411": [],
+  "SPAN2311": [
+    "SPAN1411"
+  ],
+  "SPCH1321": [],
+  "HPRS2201": [],
+  "SRGT1409": [],
+  "VNSG1420": [],
+  "WLDG1337": [],
+  "WLDG1413": [],
+  "WLDG1428": [
+    "WLDG1421INTROTOWELDINGFUNDAMENTALS"
+  ],
+  "WLDG1430": [
+    "WLDG1421INTROTOWELDINGFUNDAMENTALS",
+    "APPROVALOFINSTRUCTOR"
+  ],
+  "WLDG2406": [
+    "WLDG1435INTROTOPIPEWELDING"
+  ],
+  "WLDG2443": [
+    "WLDG1421INTROTOWELDINGFUNDAMENTALSORAPPROVALOFINSTRUCTOR"
+  ],
+  "WLDG2453": [
+    "WLDG1435INTROTOPIPEWELDING",
+    "APPROVALOFINSTRUCTOR"
+  ]
+}

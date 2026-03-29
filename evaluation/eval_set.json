@@ -1,0 +1,202 @@
+[
+  {
+    "id": "prereq_01",
+    "category": "prereq_check",
+    "question": "Can I take Programming Fundamentals II?",
+    "completed_courses": ["COSC1336"],
+    "profile": {},
+    "expected_decision": "Eligible"
+  },
+  {
+    "id": "prereq_02",
+    "category": "prereq_check",
+    "question": "Can I take Programming Fundamentals II?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_decision": "Not eligible"
+  },
+  {
+    "id": "prereq_03",
+    "category": "prereq_check",
+    "question": "Can I take Programming Fundamentals III?",
+    "completed_courses": ["COSC1336", "COSC1337"],
+    "profile": {},
+    "expected_decision": "Eligible"
+  },
+  {
+    "id": "prereq_04",
+    "category": "prereq_check",
+    "question": "Can I take Programming Fundamentals III?",
+    "completed_courses": ["COSC1336"],
+    "profile": {},
+    "expected_decision": "Not eligible"
+  },
+  {
+    "id": "prereq_05",
+    "category": "prereq_check",
+    "question": "Can I take Calculus II?",
+    "completed_courses": ["MATH2413"],
+    "profile": {},
+    "expected_decision": "Eligible"
+  },
+  {
+    "id": "prereq_06",
+    "category": "prereq_check",
+    "question": "Can I take Calculus II?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_decision": "Not eligible"
+  },
+  {
+    "id": "prereq_07",
+    "category": "prereq_check",
+    "question": "Can I take Anatomy and Physiology II?",
+    "completed_courses": ["BIOL2401"],
+    "profile": {},
+    "expected_decision": "Eligible"
+  },
+  {
+    "id": "prereq_08",
+    "category": "prereq_check",
+    "question": "Can I take Anatomy and Physiology II?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_decision": "Not eligible"
+  },
+  {
+    "id": "prereq_09",
+    "category": "prereq_check",
+    "question": "Can I take Principles of Managerial Accounting?",
+    "completed_courses": ["ACCT2301"],
+    "profile": {},
+    "expected_decision": "Eligible"
+  },
+  {
+    "id": "prereq_10",
+    "category": "prereq_check",
+    "question": "Can I take Principles of Managerial Accounting?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_decision": "Not eligible"
+  },
+  {
+    "id": "chain_01",
+    "category": "prereq_chain",
+    "question": "Can I take Programming Fundamentals III?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_contains": ["COSC1336", "COSC1337"]
+  },
+  {
+    "id": "chain_02",
+    "category": "prereq_chain",
+    "question": "Can I take Calculus II?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_contains": ["MATH2413"]
+  },
+  {
+    "id": "chain_03",
+    "category": "prereq_chain",
+    "question": "Can I take Anatomy and Physiology II?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_contains": ["BIOL2401"]
+  },
+  {
+    "id": "chain_04",
+    "category": "prereq_chain",
+    "question": "Can I take Practicum II?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_contains": ["CDEC1366"]
+  },
+  {
+    "id": "chain_05",
+    "category": "prereq_chain",
+    "question": "Can I take ARTS 1317 Drawing II?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_contains": ["ARTS1316"]
+  },
+  {
+    "id": "program_01",
+    "category": "program_requirement",
+    "question": "What does the catalog say about transfer credit policy?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_keywords": ["transfer", "credit"]
+  },
+  {
+    "id": "program_02",
+    "category": "program_requirement",
+    "question": "What does the catalog say about residency requirements for graduation?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_keywords": ["residency"]
+  },
+  {
+    "id": "program_03",
+    "category": "program_requirement",
+    "question": "What does the catalog say about satisfactory academic progress?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_keywords": ["satisfactory academic progress", "financial aid"]
+  },
+  {
+    "id": "program_04",
+    "category": "program_requirement",
+    "question": "What does the catalog say about credit by examination?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_keywords": ["examination", "credit"]
+  },
+  {
+    "id": "program_05",
+    "category": "program_requirement",
+    "question": "What does the catalog say about reverse transfer?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_keywords": ["reverse transfer"]
+  },
+  {
+    "id": "trick_01",
+    "category": "not_in_docs",
+    "question": "Which professor usually teaches Programming Fundamentals II in the fall?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_abstain": true
+  },
+  {
+    "id": "trick_02",
+    "category": "not_in_docs",
+    "question": "Which weekdays is Calculus II offered this semester?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_abstain": true
+  },
+  {
+    "id": "trick_03",
+    "category": "not_in_docs",
+    "question": "How many seats are left in Programming Fundamentals II?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_abstain": true
+  },
+  {
+    "id": "trick_04",
+    "category": "not_in_docs",
+    "question": "What is the easiest elective for Computer Science majors?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_abstain": true
+  },
+  {
+    "id": "trick_05",
+    "category": "not_in_docs",
+    "question": "Will Cisco College waive prerequisites if I email the professor?",
+    "completed_courses": [],
+    "profile": {},
+    "expected_abstain": true
+  }
+]

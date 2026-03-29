@@ -1,0 +1,3117 @@
+[
+  {
+    "course_name": "Child Development Level I Certificate",
+    "course_code": "",
+    "credits": "",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 11
+  },
+  {
+    "course_name": "ENGL 1301 Composition I",
+    "course_code": "ENGL 1301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 62
+  },
+  {
+    "course_name": "Composition I",
+    "course_code": "ENGL 1301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 63
+  },
+  {
+    "course_name": "Personal Finance",
+    "course_code": "BUSI 1307",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 63
+  },
+  {
+    "course_name": "United States History I",
+    "course_code": "HIST 1301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "An introductory course covering the history of the United States up to the early 19th century.",
+    "source": "cisco_catalog.pdf",
+    "page": 66
+  },
+  {
+    "course_name": "General Psychology",
+    "course_code": "PSYC 2301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 67
+  },
+  {
+    "course_name": "PSYC 2314 Lifespan Growth and Dev",
+    "course_code": "PSYC 2314",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Study of human growth and development across the lifespan.",
+    "source": "cisco_catalog.pdf",
+    "page": 67
+  },
+  {
+    "course_name": "Principles of Financial Accounting",
+    "course_code": "ACCT 2301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "This course covers the fundamental principles and practices of financial accounting.",
+    "source": "cisco_catalog.pdf",
+    "page": 71
+  },
+  {
+    "course_name": "Biology for Science Majors I",
+    "course_code": "BIOL 1406",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "An introductory course designed for science majors covering fundamental concepts in biology.",
+    "source": "cisco_catalog.pdf",
+    "page": 72
+  },
+  {
+    "course_name": "BIOL 1406 Biology for Science Majors I",
+    "course_code": "BIOL 1406",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "An introductory course covering fundamental concepts in biology designed for science majors.",
+    "source": "cisco_catalog.pdf",
+    "page": 72
+  },
+  {
+    "course_name": "Federal Government",
+    "course_code": "GOVT 2305",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 72
+  },
+  {
+    "course_name": "General Chemistry I",
+    "course_code": "CHEM 1411",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "Introduction to fundamental concepts of chemistry including atomic structure, chemical bonding, and stoichiometry.",
+    "source": "cisco_catalog.pdf",
+    "page": 73
+  },
+  {
+    "course_name": "Programming Fundamentals I",
+    "course_code": "COSC 1336",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 74
+  },
+  {
+    "course_name": "Calculus I",
+    "course_code": "MATH 2413",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 75
+  },
+  {
+    "course_name": "MATH 2413 Calculus I",
+    "course_code": "MATH 2413",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 76
+  },
+  {
+    "course_name": "Foundations of Kinesiology",
+    "course_code": "KINE 1301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 77
+  },
+  {
+    "course_name": "KINE 2356 Care & Prevention of Athletic Injuries",
+    "course_code": "KINE 2356",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 77
+  },
+  {
+    "course_name": "First Aid, CPR, and Safety Practices",
+    "course_code": "KINE 1306",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 78
+  },
+  {
+    "course_name": "PHED 1338 Concepts of Physical Fitness",
+    "course_code": "PHED 1338",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 78
+  },
+  {
+    "course_name": "Mathematics for Teachers I",
+    "course_code": "MATH 1350",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 80
+  },
+  {
+    "course_name": "Public Speaking",
+    "course_code": "SPCH 1315",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 80
+  },
+  {
+    "course_name": "SPCH 1315 Public Speaking",
+    "course_code": "SPCH 1315",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 84
+  },
+  {
+    "course_name": "Intro to Automotive Tech",
+    "course_code": "AUMT 1305",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 88
+  },
+  {
+    "course_name": "Suspension & Steering",
+    "course_code": "AUMT 1416",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 88
+  },
+  {
+    "course_name": "Auto Brake Systems",
+    "course_code": "AUMT 1410",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "Study of automotive brake systems covering their components, operation, and maintenance.",
+    "source": "cisco_catalog.pdf",
+    "page": 89
+  },
+  {
+    "course_name": "Families, School & Comm.",
+    "course_code": "CDEC 1303 / TECA 1303",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 92
+  },
+  {
+    "course_name": "Math & Science for Early Childhood",
+    "course_code": "CDEC 2307",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 92
+  },
+  {
+    "course_name": "Practicum II",
+    "course_code": "CDEC 2366",
+    "credits": "3",
+    "prerequisites": [
+      "CDEC 1366"
+    ],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 93
+  },
+  {
+    "course_name": "CDEC 2366 Practicum II",
+    "course_code": "CDEC 2366",
+    "credits": "3",
+    "prerequisites": [
+      "CDEC 1366"
+    ],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 93
+  },
+  {
+    "course_name": "Families, Schools, Communities",
+    "course_code": "CDEC 1303/TECA 1303",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 94
+  },
+  {
+    "course_name": "Orientation to Cosmetology",
+    "course_code": "CSME 1401",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 96
+  },
+  {
+    "course_name": "CSME 2541 Preparation for the State Licensing Examination",
+    "course_code": "CSME 2541",
+    "credits": "5",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 96
+  },
+  {
+    "course_name": "Orientation to Nail Technology",
+    "course_code": "CSME 1430",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 97
+  },
+  {
+    "course_name": "Class A Barber Course",
+    "course_code": "",
+    "credits": "",
+    "prerequisites": [],
+    "description": "The course provides 150 hours of basic theory including anatomy, physiology, skin and hair disorders, bacteriology, sterilization, and barber history; 750 hours of practical training in beard and mustache trimming, shaving, haircutting, massaging, chemical waving, and manicuring; and 100 hours of business including barber laws, customer service, ethics, and hygiene to prepare for the Texas Class A Barber license.",
+    "source": "cisco_catalog.pdf",
+    "page": 97
+  },
+  {
+    "course_name": "BARB 1404 Introduction to Barber Styling",
+    "course_code": "BARB 1404",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "An introductory course focused on barber styling techniques.",
+    "source": "cisco_catalog.pdf",
+    "page": 97
+  },
+  {
+    "course_name": "Introduction to Barber Styling",
+    "course_code": "BARB 1404",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 98
+  },
+  {
+    "course_name": "Intro to Criminal Justice",
+    "course_code": "CJSA 1322/CRIJ 1301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 99
+  },
+  {
+    "course_name": "Ethics in Criminal Justice",
+    "course_code": "CJSA 1348",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 99
+  },
+  {
+    "course_name": "Criminal Investigation",
+    "course_code": "CJSA 1342/CRIJ 2314",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 100
+  },
+  {
+    "course_name": "Firefighter Cert. I",
+    "course_code": "FIRS 1301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "This course is part of the Basic Firefighter Certification designed to prepare students for a career as a professional firefighter and meets state curriculum requirements for certification as a basic firefighter in Texas.",
+    "source": "cisco_catalog.pdf",
+    "page": 101
+  },
+  {
+    "course_name": "Firefighter Cert. IV",
+    "course_code": "FIRS 1319",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 101
+  },
+  {
+    "course_name": "Building Codes and Construction",
+    "course_code": "FIRT 1329",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 102
+  },
+  {
+    "course_name": "Technical & Business Writing",
+    "course_code": "ENGL 2311",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 102
+  },
+  {
+    "course_name": "HART 2438 A/C Install/Start up",
+    "course_code": "HART 2438",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 104
+  },
+  {
+    "course_name": "HART 2436 Air Conditioning Troubleshooting",
+    "course_code": "HART 2436",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 104
+  },
+  {
+    "course_name": "Co-op Ed: Industrial Tech",
+    "course_code": "BMGT 1483",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 104
+  },
+  {
+    "course_name": "CETT 1402 Electricity Principles",
+    "course_code": "CETT 1402",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "A study of components, applications and installation of mechanical air-conditioning systems including operating conditions, troubleshooting, repair and charging procedures of common air conditioning systems.",
+    "source": "cisco_catalog.pdf",
+    "page": 105
+  },
+  {
+    "course_name": "Refrigeration Principles",
+    "course_code": "HART 1407",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 105
+  },
+  {
+    "course_name": "Co-op Ed: Industrial Tech",
+    "course_code": "BMGT 1482",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "This course is part of a cooperative education program allowing students to receive semester-hour credit for work experience related to industrial technology.",
+    "source": "cisco_catalog.pdf",
+    "page": 106
+  },
+  {
+    "course_name": "BMGT 1482 Co-op Ed: Industrial Tech",
+    "course_code": "BMGT 1482",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 106
+  },
+  {
+    "course_name": "Principles of Management",
+    "course_code": "BMGT 1327",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 108
+  },
+  {
+    "course_name": "Business Principles",
+    "course_code": "BUSI 1301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 108
+  },
+  {
+    "course_name": "Principles of Real Estate",
+    "course_code": "RELE 1406",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 111
+  },
+  {
+    "course_name": "Intro to Pipe Welding",
+    "course_code": "WLDG 1435",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 112
+  },
+  {
+    "course_name": "Welding Fundamentals",
+    "course_code": "WLDG 1421",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "Introduction to welding fundamentals covering basic welding principles and techniques.",
+    "source": "cisco_catalog.pdf",
+    "page": 113
+  },
+  {
+    "course_name": "BIOL 2401 Anatomy & Physiology I",
+    "course_code": "BIOL 2401",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 116
+  },
+  {
+    "course_name": "Medical Term",
+    "course_code": "MDCA 1313",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 118
+  },
+  {
+    "course_name": "Certified Nurse Aide Course",
+    "course_code": "",
+    "credits": "",
+    "prerequisites": [],
+    "description": "The Certified Nurse Aide (CNA) course is a 100-hour course that includes lecture and clinical components, and prepares students to take the State of Texas examination to become a Certified Nurse Aide by the Texas Department of Aging and Disability Services. This course provides students with knowledge, skills, theory, concepts, and abilities essential to provide safe care to residents of long term care facilities and prepares students for entry-level employment in long-term care facilities, doctor\u2019s offices, and hospitals.",
+    "source": "cisco_catalog.pdf",
+    "page": 118
+  },
+  {
+    "course_name": "CNA",
+    "course_code": "NURA 1301",
+    "credits": "",
+    "prerequisites": [],
+    "description": "The CNA course is offered as a continuing education program and as a career and technical workforce education course for college credit. It includes advisement, background check, and healthcare agency requirements such as proof of immunizations and a negative Tuberculin skin test.",
+    "source": "cisco_catalog.pdf",
+    "page": 118
+  },
+  {
+    "course_name": "Intro to Pharmacy",
+    "course_code": "PHRA 1301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 120
+  },
+  {
+    "course_name": "Introduction to Respiratory Care",
+    "course_code": "RSPT 1201",
+    "credits": "2",
+    "prerequisites": [],
+    "description": "This course introduces the fundamental concepts and practices of respiratory care.",
+    "source": "cisco_catalog.pdf",
+    "page": 123
+  },
+  {
+    "course_name": "Microbiology for Science Majors",
+    "course_code": "BIOL 2421",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 123
+  },
+  {
+    "course_name": "SRGT 1405 Introduction to Surgical Technology",
+    "course_code": "SRGT 1405",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "An introductory course to surgical technology covering foundational concepts and skills needed in the surgical environment.",
+    "source": "cisco_catalog.pdf",
+    "page": 125
+  },
+  {
+    "course_name": "Surgical Procedures II",
+    "course_code": "SRGT 1442",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "",
+    "source": "cisco_catalog.pdf",
+    "page": 125
+  },
+  {
+    "course_name": "Principles of Managerial Accounting",
+    "course_code": "ACCT 2302",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "ACCT 2301"
+    ],
+    "description": "An introduction to the fundamental concepts of managerial accounting appropriate for all organizations, focusing on information for internal managers related to product costing, budgeting, cost control, and decision making.",
+    "source": "cisco_catalog.pdf",
+    "page": 128
+  },
+  {
+    "course_name": "ACNT 1303 Introduction to Accounting I",
+    "course_code": "ACNT 1303",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "ACCT 2301"
+    ],
+    "description": "A study of accounting for merchandising, notes payable, notes receivable, valuation of receivables and equipment and valuation of inventories in a manual and computerized environment. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 128
+  },
+  {
+    "course_name": "The Agricultural Industry",
+    "course_code": "AGRI 1131",
+    "credits": "1 semester hour",
+    "prerequisites": [],
+    "description": "Overview of world agriculture, nature of the industry, resource conservation and the American agricultural system, including production, distribution and marketing; recommended for all freshmen agriculture majors.",
+    "source": "cisco_catalog.pdf",
+    "page": 128
+  },
+  {
+    "course_name": "AGRI 1311 Dairy Science",
+    "course_code": "AGRI 1311",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Survey of the dairy industry including dairy breeds, standards for selection and culling, herd replacements, feeding, management, physiology and health maintenance. Food value for milk, tests for composition and quality, and use and processing of market milk and dairy products. Three lecture hours, one lab hour per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 129
+  },
+  {
+    "course_name": "Introductory Animal Science",
+    "course_code": "AGRI 1419",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Scientific animal production and the importance of livestock and meat industries. Selection, reproduction, nutrition, management and marketing of livestock.",
+    "source": "cisco_catalog.pdf",
+    "page": 129
+  },
+  {
+    "course_name": "AGRI 2301 Agricultural Power Units",
+    "course_code": "AGRI 2301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Fundamentals of internal combustion engines: gasoline, diesel and liquefied petroleum. Maintenance and adjustments of the electrical, ignition, fuel, lubricating and cooling systems of agricultural power machinery.",
+    "source": "cisco_catalog.pdf",
+    "page": 129
+  },
+  {
+    "course_name": "Introduction to Agricultural Economics",
+    "course_code": "AGRI 2317",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Fundamental economic principles and their applications to the problems of the industry of agriculture. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 130
+  },
+  {
+    "course_name": "ANTH 2346 General Anthropology",
+    "course_code": "ANTH 2346",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Study of human beings, their antecedents and related primates, and their cultural behavior and institutions. Introduces the major subfields: physical and cultural anthropology, archeology, linguistics, and ethnology.",
+    "source": "cisco_catalog.pdf",
+    "page": 130
+  },
+  {
+    "course_name": "ARTS 1303 Art History I",
+    "course_code": "ARTS 1303",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A chronological analysis of the historical and cultural contexts of the visual arts from prehistoric times to the 14th century. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 130
+  },
+  {
+    "course_name": "ARTS 1311 Design I",
+    "course_code": "ARTS 1311",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "An introduction to the fundamental terminology, concepts, theory, and application of two-dimensional design.",
+    "source": "cisco_catalog.pdf",
+    "page": 131
+  },
+  {
+    "course_name": "ARTS 1317 Drawing II",
+    "course_code": "ARTS 1317",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "ARTS 1316"
+    ],
+    "description": "A studio course exploring drawing with continued emphasis on descriptive, expressive and conceptual approaches. Students will further develop the ability to see and interpret a variety of subjects while using diverse materials and techniques. Course work will facilitate a dialogue in which students will employ critical analysis to broaden their understanding of drawing as a discipline.",
+    "source": "cisco_catalog.pdf",
+    "page": 131
+  },
+  {
+    "course_name": "ARTS 2313 Design Communications I",
+    "course_code": "ARTS 2313",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Communication of ideas through processes and techniques of graphic design and illustration. Three hours lecture.",
+    "source": "cisco_catalog.pdf",
+    "page": 131
+  },
+  {
+    "course_name": "ARTS 2317 Painting II",
+    "course_code": "ARTS 2317",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "ARTS 2316"
+    ],
+    "description": "Exploration of ideas using painting media and techniques. Three lecture hours, three lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 132
+  },
+  {
+    "course_name": "ARTS 2341 Metals",
+    "course_code": "ARTS 2341",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A studio art course that introduces metalsmithing using basic techniques in jewelry design and metal construction. The course provides instruction and practical fabrication experience as it relates to the design and production of small-scale functional and/or non-functional objects.",
+    "source": "cisco_catalog.pdf",
+    "page": 132
+  },
+  {
+    "course_name": "ARTS 2389 Academic Cooperative",
+    "course_code": "ARTS 2389",
+    "credits": "3",
+    "prerequisites": [
+      "ARTS 1311"
+    ],
+    "description": "An instructional program designed to integrate on-campus study with practical hands-on work experience. In conjunction with class seminars, the individual student will set specific goals and objectives in the study of studio art and/or art history.",
+    "source": "cisco_catalog.pdf",
+    "page": 132
+  },
+  {
+    "course_name": "Introduction to Automotive Technology",
+    "course_code": "AUMT 1305",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "An overview of automotive electrical systems including topics in operational theory, testing, diagnosis, and repair of batteries, charging and starting systems, and electrical accessories. Emphasis on electrical schematic diagrams and service manuals. May be taught manufacturer specific. Two lecture hours, three lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 133
+  },
+  {
+    "course_name": "AUMT 1410 Automotive Brake Systems",
+    "course_code": "AUMT 1410",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Operation and repair of drum/disc type brake systems. Emphasis on safe use of modern equipment. Topics include brake theory, diagnosis, and repair of power, manual, antilock brake systems, and parking brakes. May be taught manufacturer specific.",
+    "source": "cisco_catalog.pdf",
+    "page": 133
+  },
+  {
+    "course_name": "AUMT 1416 Suspension and Steering",
+    "course_code": "AUMT 1416",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "A study of theory and operation of automotive suspension and steering systems including tire and wheel problem diagnosis, component repair, and alignment procedures. May be taught manufacturer specific.",
+    "source": "cisco_catalog.pdf",
+    "page": 133
+  },
+  {
+    "course_name": "Automotive Drive Train and Axles",
+    "course_code": "AUMT 2313",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "A study of automotive clutches, clutch operation devices, manual transmissions/transaxles, and differentials with emphasis on the diagnosis and the repair of transmissions/transaxles and drive lines. May be taught manufacturer specific. Two lecture hours, three lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 134
+  },
+  {
+    "course_name": "AUMT 2417 Engine Performance Analysis I",
+    "course_code": "AUMT 2417",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Theory, operation, diagnosis, and repair of basic engine dynamics, ignition systems, and fuel delivery systems. Use of basic engine performance diagnostic equipment. May be taught manufacturer specific.",
+    "source": "cisco_catalog.pdf",
+    "page": 134
+  },
+  {
+    "course_name": "Advanced Emission Systems Diagnostics",
+    "course_code": "AUMT 2443",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Diagnostics and repair of emission control systems with emphasis on the application of advanced diagnostic information, tools, and techniques. Course includes state and federal laws required for preparation for licensing. May be taught with manufacturer specific instructions.",
+    "source": "cisco_catalog.pdf",
+    "page": 134
+  },
+  {
+    "course_name": "DEMR 1406 Diesel Engine I",
+    "course_code": "DEMR 1406",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "An introduction to the basic principles of diesel engines and systems. Two lecture, four lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 135
+  },
+  {
+    "course_name": "BIOL 1407 Biology for Science Majors II",
+    "course_code": "BIOL 1407",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "BIOL 1406"
+    ],
+    "description": "The diversity and classification of life will be studied, including animals, plants, protists, fungi, and prokaryotes. Special emphasis will be given to anatomy, physiology, ecology, and evolution of plants and animals.",
+    "source": "cisco_catalog.pdf",
+    "page": 135
+  },
+  {
+    "course_name": "BIOL 1409 Biology for Non-Science Majors II",
+    "course_code": "BIOL 1409",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "This course will provide a survey of biological principles with an emphasis on humans, including evolution, ecology, plant and animal diversity, and physiology. Laboratory activities will reinforce same topics. Three lecture hours, three laboratory hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 135
+  },
+  {
+    "course_name": "General Botany",
+    "course_code": "BIOL 1411",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "MATH 1314 College Algebra"
+    ],
+    "description": "Fundamental biological concepts relevant to plant physiology, life cycle, growth and development, structure and function, and cellular and molecular metabolism. The role of plants in the environment, evolution, and phylogeny of major plant groups, algae, and fungi.",
+    "source": "cisco_catalog.pdf",
+    "page": 136
+  },
+  {
+    "course_name": "BIOL 2289 Academic Cooperative",
+    "course_code": "BIOL 2289",
+    "credits": "2 semester hours",
+    "prerequisites": [],
+    "description": "An instructional program designed to integrate on-campus study with practical hands-on work experience in the biological sciences/life sciences. In conjunction with class seminars, the individual student will set specific goals and objectives in the study of living organisms and their systems. Two lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 136
+  },
+  {
+    "course_name": "BIOL 2401 Anatomy and Physiology I",
+    "course_code": "BIOL 2401",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "College ready in Reading and Writing",
+      "Biology 1406 or 1413",
+      "approval of Chairperson"
+    ],
+    "description": "Study of the structure and function of human anatomy, including the neuroendocrine, integumentary, musculoskeletal, digestive, urinary, reproductive, respiratory, and circulatory systems. Content may be either integrated or specialized. Three lecture hours, four laboratory hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 136
+  },
+  {
+    "course_name": "Anatomy and Physiology II",
+    "course_code": "BIOL 2402",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "College ready in Reading and Writing",
+      "Biology 2401",
+      "or approval of Chairperson"
+    ],
+    "description": "Study of the structure and function of human anatomy, including the neuroendocrine, integumentary, musculoskeletal, digestive, urinary, reproductive, respiratory, and circulatory systems. Content may be either integrated or specialized. A continuation of BIOL 2401. Three lecture hours, four laboratory hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 137
+  },
+  {
+    "course_name": "Business Computer Applications",
+    "course_code": "BCIS 1305",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Introduces and develops foundational skills in applying essential and emerging business productivity information technology tools. Focuses on software applications including word processing, spreadsheets, databases, presentation graphics, data analytics, and business-oriented utilization of the Internet.",
+    "source": "cisco_catalog.pdf",
+    "page": 137
+  },
+  {
+    "course_name": "ACNT 1304 Introduction to Accounting II",
+    "course_code": "ACNT 1304",
+    "credits": "3",
+    "prerequisites": [
+      "ACNT 1303"
+    ],
+    "description": "A study of accounting for merchandising, notes payable, notes receivable, valuation of receivable and equipment, and valuation of inventories in a manual and computerized environment.",
+    "source": "cisco_catalog.pdf",
+    "page": 137
+  },
+  {
+    "course_name": "ACNT 1311 Introduction to Computerized Accounting",
+    "course_code": "ACNT 1311",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "ACNT 1303"
+    ],
+    "description": "Introduction to utilizing the computer in maintaining accounting records with primary emphasis on a general ledger package. Two lecture hours, two lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 138
+  },
+  {
+    "course_name": "BMGT 1327 Principles of Management",
+    "course_code": "BMGT 1327",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "An introduction to the various theories, processes, and functions of management; apply theories to a business environment; identify leadership roles in organizations; and describe elements of the communication process.",
+    "source": "cisco_catalog.pdf",
+    "page": 138
+  },
+  {
+    "course_name": "BMGT 1391 Special Topics in Business Administration Management and General Topics",
+    "course_code": "BMGT 1391",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Topics address recently identified current events, skills, knowledge, and/or attitudes and behaviors pertinent to the technology or occupation and relevant to the professional development of the student. This course was designed to be repeated multiple times to improve student proficiency.",
+    "source": "cisco_catalog.pdf",
+    "page": 138
+  },
+  {
+    "course_name": "BMGT 2303 Problem solving and Decision Making",
+    "course_code": "BMGT 2303",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Decision-making and problem-solving processes in organizations utilizing logical and creative problem solving techniques. Application of theory is provided by experiential activities using managerial decision tools. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 139
+  },
+  {
+    "course_name": "BMGT 2311 Change Management",
+    "course_code": "BMGT 2311",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Knowledge, skills, and tools that enable a leader/organization to facilitate change in a pro-active participative style. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 139
+  },
+  {
+    "course_name": "BUSG 1302 E-Business Management",
+    "course_code": "BUSG 1302",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "Introduction to business. Includes the internet, infrastructure for electronic commerce, markup languages, web-based tools and software, security issues, and electronic payment systems. Also covers strategies for marketing, sales, and purchasing; legal, ethical, and tax issues; and management functions.",
+    "source": "cisco_catalog.pdf",
+    "page": 139
+  },
+  {
+    "course_name": "BUSG 1341 Small Business Financing",
+    "course_code": "BUSG 1341",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "An overview of business financing options and capital markets. Students will be able to estimate required funding for new businesses and understand financing needs for expansion of existing businesses. Operations financing, risk management, and tax matters will also be addressed.",
+    "source": "cisco_catalog.pdf",
+    "page": 140
+  },
+  {
+    "course_name": "BUSI 1307 Personal Finance",
+    "course_code": "BUSI 1307",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Personal and family account, budgets and budgetary control, bank accounts, charge accounts, borrowing, investing, insurance, standards of living, renting or home ownership, and wills and trust plans. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 140
+  },
+  {
+    "course_name": "Business Law",
+    "course_code": "BUSI 2301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "The course provides the student with foundational information about the U.S. legal system and dispute resolution, and their impact on business. The major content areas include general principles of law, the relationship of business and the U.S. Constitution, state and federal legal systems, the relationship between law and ethics, contracts, sales, torts, agency law, intellectual property, and business law in the global context.",
+    "source": "cisco_catalog.pdf",
+    "page": 140
+  },
+  {
+    "course_name": "HRPO 2301 Human Resource Management",
+    "course_code": "HRPO 2301",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Behavioral and legal approaches to the management of human resources in organizations.",
+    "source": "cisco_catalog.pdf",
+    "page": 141
+  },
+  {
+    "course_name": "ITSC 1301 Introduction to Computers",
+    "course_code": "ITSC 1301",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Overview of computer information systems. Introduces computer hardware, software, procedures, and human resources. Presents basic concepts in the fields of business intelligence, business analytics, and information science.",
+    "source": "cisco_catalog.pdf",
+    "page": 141
+  },
+  {
+    "course_name": "ITSW 1410 Introduction to Presentation Graphics Software",
+    "course_code": "ITSW 1410",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "POFI 2301 Word Processing"
+    ],
+    "description": "Instruction in the utilization of presentation software to produce multimedia presentations. Graphics, text, sound, animation and/or video may be used in presentation development. Three lecture hours, 2 lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 142
+  },
+  {
+    "course_name": "POFI 2301 Word Processing",
+    "course_code": "POFI 2301",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "ITSW 1301"
+    ],
+    "description": "Word processing software focusing on business applications. Two lecture hours, two lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 142
+  },
+  {
+    "course_name": "Internship: Business/Office Automation/Technology/Data Entry",
+    "course_code": "POFI 2486",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "A work-based learning experience that enables the student to apply specialized occupational theory, skills and concepts. A learning plan is developed by the College and the employer. Thirty external hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 142
+  },
+  {
+    "course_name": "Administrative Office Procedures I",
+    "course_code": "POFT 1309",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Study of current office procedures, duties, and responsibilities applicable to an office environment.",
+    "source": "cisco_catalog.pdf",
+    "page": 143
+  },
+  {
+    "course_name": "Business Correspondence & Communications",
+    "course_code": "POFT 2312",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Development of writing and presentation skills to produce effective business communications. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 143
+  },
+  {
+    "course_name": "Advanced Keyboarding",
+    "course_code": "POFT 2433",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "POFT 2301"
+    ],
+    "description": "Study of advanced concepts in variety of office-simulated correspondence activities with emphasis on organization, prioritizing, decision making, composition, placement, accuracy, and speed development.",
+    "source": "cisco_catalog.pdf",
+    "page": 143
+  },
+  {
+    "course_name": "Introductory Chemistry I",
+    "course_code": "CHEM 1405",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "MATH 0402 or equivalent"
+    ],
+    "description": "Survey course introducing chemistry. Topics may include inorganic, organic, biochemistry, food/physiological chemistry, and environmental/consumer chemistry. Designed for non-science and allied health students.",
+    "source": "cisco_catalog.pdf",
+    "page": 144
+  },
+  {
+    "course_name": "Introductory Chemistry II",
+    "course_code": "CHEM 1407",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "Survey course introducing chemistry. Topics may include inorganic, organic, biochemistry, food/physiological chemistry, and environmental/consumer chemistry. Designed for non-science and allied health students.",
+    "source": "cisco_catalog.pdf",
+    "page": 144
+  },
+  {
+    "course_name": "CHEM 1411",
+    "course_code": "CHEM 1411",
+    "credits": "4",
+    "prerequisites": [
+      "MATH 1314"
+    ],
+    "description": "Thermodynamics and descriptive chemistry. Basic laboratory experiments supporting theoretical principles, introduction to the scientific method, experimental design, data collection and analysis, and preparation of laboratory reports.",
+    "source": "cisco_catalog.pdf",
+    "page": 144
+  },
+  {
+    "course_name": "General Chemistry II",
+    "course_code": "CHEM 1412",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "CHEM 1411"
+    ],
+    "description": "Chemical equilibrium; phase diagrams and spectrometry; acid-base concepts; thermodynamics; kinetics; electrochemistry; nuclear chemistry; an introduction to organic chemistry and descriptive inorganic chemistry. Includes a lab with basic experiments supporting theoretical principles, scientific method introduction, experimental design, chemical instrumentation, data collection and analysis, and preparation of laboratory reports.",
+    "source": "cisco_catalog.pdf",
+    "page": 145
+  },
+  {
+    "course_name": "CHEM 2389 Academic Cooperative",
+    "course_code": "CHEM 2389",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "An instructional program designed to integrate on-campus study with practical hands-on work experience in the biological sciences/life sciences. In conjunction with class seminars, the individual student will set specific goals and objectives in the scientific study of inanimate objects, processes of matter and energy, and associated phenomena. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 145
+  },
+  {
+    "course_name": "Organic Chemistry I",
+    "course_code": "CHEM 2423",
+    "credits": "4",
+    "prerequisites": [
+      "Chemistry 1412"
+    ],
+    "description": "Fundamental principles of organic chemistry including structure, bonding, properties, and reactivity of organic molecules. Emphasis on organic synthesis and mechanisms, including nomenclature, stereochemistry, reaction mechanisms, functional groups, and synthesis of simple molecules.",
+    "source": "cisco_catalog.pdf",
+    "page": 145
+  },
+  {
+    "course_name": "Organic Chemistry II",
+    "course_code": "CHEM 2425",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "Chemistry 2423"
+    ],
+    "description": "Advanced principles of organic chemistry including the structure, properties, and reactivity of aliphatic and aromatic organic molecules; emphasis on organic synthesis and mechanisms. Includes study of bonding, nomenclature, stereochemistry, reaction mechanisms, functional groups, and synthesis of simple molecules.",
+    "source": "cisco_catalog.pdf",
+    "page": 146
+  },
+  {
+    "course_name": "Families, School & Community",
+    "course_code": "CDEC 1303 / TECA 1303",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Study of the child, family, community, and schools. Includes parent education and involvement, family and community lifestyles, child abuse, and current family life issues. Course content is aligned with State Board for Educator Certification Pedagogy and Professional Responsibilities standards. Requires students to participate in a minimum of 16 hours field experience with children from infancy through age 12 in a variety of settings with varied and diverse populations.",
+    "source": "cisco_catalog.pdf",
+    "page": 146
+  },
+  {
+    "course_name": "CDEC 1313 Curriculum Resources for Early Childhood Program",
+    "course_code": "CDEC 1313",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A study of the fundamentals of developmentally appropriate curriculum design and implementation in early care and education programs for children. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 146
+  },
+  {
+    "course_name": "Wellness of the Young Child",
+    "course_code": "CDEC 1318 / TECA 1318",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Factors impacting the well-being of young children. Includes healthy behavior, food, nutrition, fitness, and safety practices. Focuses on local and national standards and legal implications of relevant policies and regulations. Requires students to participate in a minimum of 16 hours field experience with children from infancy through age 12 in a variety of settings with varied and diverse populations.",
+    "source": "cisco_catalog.pdf",
+    "page": 147
+  },
+  {
+    "course_name": "CDEC 1321 The Infant and Toddler",
+    "course_code": "CDEC 1321",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A study of appropriate infant and toddler programs (birth to age 3), including an overview of development, quality routines, learning environments, materials and activities, and teaching/guidance techniques. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 147
+  },
+  {
+    "course_name": "CDEC 1335 Early Childhood Development 3- 5 Years",
+    "course_code": "CDEC 1335",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Principles of typical growth and development from three to five years. Emphasizes physical, cognitive, emotional, and social development. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 147
+  },
+  {
+    "course_name": "Creative Arts for Early Childhood",
+    "course_code": "CDEC 1358",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "An exploration of principles, methods, and materials for teaching children music, movement, visual arts, and dramatic play through process-oriented experiences to support divergent thinking.",
+    "source": "cisco_catalog.pdf",
+    "page": 148
+  },
+  {
+    "course_name": "Child Development Associate Training I",
+    "course_code": "CDEC 1417",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Based on the requirements for the Child Development Associate National Credential (CDA). Three of the 13 functional areas of study include family, program management, and professionalism. Topics on CDA overview, general observation skills, and child growth and development overview.",
+    "source": "cisco_catalog.pdf",
+    "page": 148
+  },
+  {
+    "course_name": "Math and Science for Early Childhood",
+    "course_code": "CDEC 2307",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "An exploration of principles, methods, and materials for teaching children math and science concepts and process skills through discovery and play.",
+    "source": "cisco_catalog.pdf",
+    "page": 148
+  },
+  {
+    "course_name": "Administration of Programs for Children I",
+    "course_code": "CDEC 2326",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Application of management procedures for early child care education programs. Includes planning, operating, supervising, and evaluating programs. Topics cover philosophy, types of programs, policies, fiscal management, regulations, staffing, evaluation, and communication.",
+    "source": "cisco_catalog.pdf",
+    "page": 149
+  },
+  {
+    "course_name": "Child Development Associate Training II",
+    "course_code": "CDEC 2422",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A continuation of the study of the requirements for the Child Development Associate National Credential (CDA). The six functional areas of study include safe, healthy learning environment, self, social and guidance.",
+    "source": "cisco_catalog.pdf",
+    "page": 149
+  },
+  {
+    "course_name": "COMM 1307 Introduction to Mass Communication",
+    "course_code": "COMM 1307",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Survey of basic content and structural elements of mass media and their functions and influences on society. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 149
+  },
+  {
+    "course_name": "Introduction to Electronic Media",
+    "course_code": "COMM 1335",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "An overview of the development, regulation, economics, social impact, and industry practices in electronic media. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 150
+  },
+  {
+    "course_name": "COMM 2311 Media Writing",
+    "course_code": "COMM 2311",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "ENGL 1301"
+    ],
+    "description": "Fundamentals of writing for the mass media. Includes instruction in professional methods and techniques for gathering, processing, and delivering content.",
+    "source": "cisco_catalog.pdf",
+    "page": 150
+  },
+  {
+    "course_name": "Writing for Radio, Television, & Film",
+    "course_code": "COMM 2339",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Introduction to basic script formats, terminology, and writing techniques, including the writing of commercials, public service announcements, promotions, news, documentary, and fictional materials.",
+    "source": "cisco_catalog.pdf",
+    "page": 150
+  },
+  {
+    "course_name": "COSC 1315 Introduction to Computer Programming",
+    "course_code": "COSC 1315",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Introduction to computer programming for solving a variety of problems. This course is intended for non-computer science and non-computer engineering majors. Emphasis on the fundamentals of design, development, testing, implementation, and documentation of computer programs. Includes problem solving with structured techniques and algorithms using pseudo code and/or graphical representations.",
+    "source": "cisco_catalog.pdf",
+    "page": 151
+  },
+  {
+    "course_name": "Programming Fundamentals II",
+    "course_code": "COSC 1337",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "This course focuses on the object-oriented programming paradigm, emphasizing the definition and use of classes along with fundamentals of object-oriented design. It includes basic analysis of algorithms, searching and sorting techniques, and an introduction to software engineering processes. Students will apply techniques for testing and debugging software.",
+    "source": "cisco_catalog.pdf",
+    "page": 151
+  },
+  {
+    "course_name": "Computer Organization",
+    "course_code": "COSC 2325",
+    "credits": "3",
+    "prerequisites": [
+      "COSC 1336",
+      "COSC 1436"
+    ],
+    "description": "The organization of computer systems is introduced using assembly language. Topics include basic concepts of computer architecture and organization, memory hierarchy, data types, computer arithmetic, control structures, interrupt handling, instruction sets, performance metrics, and the mechanics of testing and debugging computer systems. Embedded systems and device interfacing are introduced.",
+    "source": "cisco_catalog.pdf",
+    "page": 151
+  },
+  {
+    "course_name": "Programming Fundamentals III",
+    "course_code": "COSC 2336",
+    "credits": "3",
+    "prerequisites": [
+      "COSC 1337",
+      "COSC 1437"
+    ],
+    "description": "Further applications of programming techniques, introducing the fundamental concepts of data structures and algorithms. Topics include data structures (including stacks, queues, linked lists, hash tables, trees, and graphs), searching, sorting, recursion, and algorithmic analysis. Programs will be implemented in an appropriate object oriented language.",
+    "source": "cisco_catalog.pdf",
+    "page": 152
+  },
+  {
+    "course_name": "BARB 1402 Barber Styling I",
+    "course_code": "BARB 1402",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "Cosmetology License",
+      "Barber Class A first semester courses",
+      "approval by Cosmetology Director"
+    ],
+    "description": "Continued development in haircutting techniques and implementation of basic styling. Introduction to chemical reformation. Two lecture hours and six lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 152
+  },
+  {
+    "course_name": "BARB 1442 Barber Styling II",
+    "course_code": "BARB 1442",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "Cosmetology License",
+      "Barber Class A first semester courses",
+      "approval by Cosmetology Director"
+    ],
+    "description": "Instruction in haircutting techniques with emphasis on intermediate hands-on application of skills. Two lecture hours and six lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 152
+  },
+  {
+    "course_name": "Advanced Barbering Styling I",
+    "course_code": "BARB 2431",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "Cosmetology License",
+      "Barber Class A first semester courses",
+      "approval by Cosmetology Director"
+    ],
+    "description": "Advanced skills in all areas of haircutting, shaving, skincare, hairstyling, and beard shaping. Introduction to chemical texture services and hair coloring. Intermediate application of haircoloring, highlighting, and chemical texture services. Introduction to chemical relaxers. Preparation for state licensing exam.",
+    "source": "cisco_catalog.pdf",
+    "page": 153
+  },
+  {
+    "course_name": "BARB 2441 Advanced Barbering Styling II",
+    "course_code": "BARB 2441",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "Cosmetology License",
+      "Barber Class A first semester courses",
+      "approval by Cosmetology Director"
+    ],
+    "description": "Continuation of Advanced Barber Styling I with further refinement of all skill and theory for licensure. Two lecture hours and six lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 153
+  },
+  {
+    "course_name": "CSME 1310 Introduction to Haircutting & Related Theory",
+    "course_code": "CSME 1310",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Introduction to the theory and practice of hair cutting. Topics include terminology, implements, sectioning and finishing techniques. One lecture hour, eight lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 153
+  },
+  {
+    "course_name": "CSME 1401 Orientation to Cosmetology",
+    "course_code": "CSME 1401",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "An overview of the skills and knowledge necessary for the field of Cosmetology. Two lecture hours, eight lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 154
+  },
+  {
+    "course_name": "CSME 1435 Orientation to the Instruction of Cosmetology",
+    "course_code": "CSME 1435",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "Current Texas License"
+    ],
+    "description": "An overview of the skills and knowledge necessary for the instruction of cosmetology students. Two lecture hours, six lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 154
+  },
+  {
+    "course_name": "Principles of Skin Care/Facials",
+    "course_code": "CSME 1447",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "In-depth coverage of the theory and practice of skin care, facials, and cosmetics. One lecture hour, eight lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 154
+  },
+  {
+    "course_name": "Artistry of Hair Theory and Practice",
+    "course_code": "CSME 1451",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Instruction in the artistry of hair design. Topics include theory, techniques and application of hair design. Two lecture hours, seven lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 155
+  },
+  {
+    "course_name": "Advanced Cosmetology Techniques",
+    "course_code": "CSME 2237",
+    "credits": "5",
+    "prerequisites": [],
+    "description": "Mastery of advanced cosmetology techniques including hair designs, professional cosmetology services, and workplace competencies.",
+    "source": "cisco_catalog.pdf",
+    "page": 155
+  },
+  {
+    "course_name": "Cosmetology Small Business Management",
+    "course_code": "CSME 2342",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Professional training and theory in business ethics, goals, salon operation and record keeping.",
+    "source": "cisco_catalog.pdf",
+    "page": 155
+  },
+  {
+    "course_name": "Principles of Hair Coloring and Related Theory",
+    "course_code": "CSME 2401",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Presentation of the theory practice, and chemistry of hair color. Topics include terminology, application, and workplace competencies.",
+    "source": "cisco_catalog.pdf",
+    "page": 156
+  },
+  {
+    "course_name": "CSME 2445 Instructional Theory and Clinic Operation",
+    "course_code": "CSME 2445",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "An overview of the objectives required by the Texas Department of Licensing and Regulation Instructor Examination. Two lecture hours, six lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 156
+  },
+  {
+    "course_name": "Preparation for the State Licensing Examination",
+    "course_code": "CSME 2541",
+    "credits": "5",
+    "prerequisites": [],
+    "description": "Preparation for the state licensing examination including theory, techniques, and application related to the curriculum for completion of the T.C.C. written and practical exam. The course includes three lecture hours and five lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 156
+  },
+  {
+    "course_name": "Probation and Parole",
+    "course_code": "CJCR 1304",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A survey of the structure, organization, and operation of probation and parole services. Emphasis on applicable state statutes and administrative guidelines.",
+    "source": "cisco_catalog.pdf",
+    "page": 157
+  },
+  {
+    "course_name": "CJLE 1111 Basic Firearm Training",
+    "course_code": "CJLE 1111",
+    "credits": "1 semester hour",
+    "prerequisites": [],
+    "description": "Instruction on firearm safety, cleaning, and care techniques, proper shooting principles, and proficiency with a handgun and shotgun. One lecture hour per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 157
+  },
+  {
+    "course_name": "Intermediate Crime Scene Investigation",
+    "course_code": "CJLE 1345",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Topics include objectives, preparations, procedures, and methods of crime scene search; value of crime scene sketches and their relationship to crime scene photographs; fingerprints as physical evidence, fingerprint identification and classification, types of impressions and techniques for locating and developing impressions.",
+    "source": "cisco_catalog.pdf",
+    "page": 157
+  },
+  {
+    "course_name": "Vice and Narcotics Investigation",
+    "course_code": "CJLE 2345",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Classifications of commonly used narcotics, dangerous drugs, gambling, sex crimes, fraud, gangs, and investigative techniques. Includes proper interdiction procedures and techniques. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 158
+  },
+  {
+    "course_name": "Juvenile Justice System",
+    "course_code": "CJSA 1317/ CRIJ 1313",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A study of the juvenile justice process to include specialized juvenile law, role of the juvenile law, role of the juvenile courts, role of police agencies, role of correctional agencies, and theories concerning delinquency.",
+    "source": "cisco_catalog.pdf",
+    "page": 158
+  },
+  {
+    "course_name": "Fundamentals of Criminal Law",
+    "course_code": "CJSA 1327 / CRIJ 1310",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A study of the nature of criminal law; philosophical and historical development; major definitions and concepts; classification of crime; elements of crimes and penalties, using Texas statutes as illustrations; criminal responsibility.",
+    "source": "cisco_catalog.pdf",
+    "page": 158
+  },
+  {
+    "course_name": "Criminal Investigation",
+    "course_code": "CJSA 1342/ CRIJ 2314",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Investigative theory; collection and preservation of evidence; sources of information; interview and interrogation; uses of forensic sciences; case and trial preparation.",
+    "source": "cisco_catalog.pdf",
+    "page": 159
+  },
+  {
+    "course_name": "CJSA 1359/ CRIJ 2328 Police Systems & Practices",
+    "course_code": "CJSA 1359/ CRIJ 2328",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "The police profession; organization of law enforcement systems. The police role; police discretion; ethics; police-community interaction; current and future issues. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 159
+  },
+  {
+    "course_name": "Legal Aspects of Law Enforcement",
+    "course_code": "CJSA 2300 /CRIJ 2323",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Police authority; responsibilities; constitutional constraints; laws of arrest, search and seizure; police liability.",
+    "source": "cisco_catalog.pdf",
+    "page": 159
+  },
+  {
+    "course_name": "Contemporary Issues in Criminal Justice",
+    "course_code": "CJSA 2334",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A series of lectures and class participation exercises presenting selected topics currently confronting criminal justice personnel and the public they serve.",
+    "source": "cisco_catalog.pdf",
+    "page": 160
+  },
+  {
+    "course_name": "Student Success",
+    "course_code": "DESS 0101",
+    "credits": "1",
+    "prerequisites": [],
+    "description": "Psychology of learning and success. Examines factors that underlie learning, success, and personal development in higher education. Topics covered include information processing, memory, strategic learning, self-regulation, goal setting, motivation, educational and career planning, and learning styles. Techniques of study such as time management, listening and note taking, text marking, library and research skills, preparing for examinations, and utilizing learning resources are covered.",
+    "source": "cisco_catalog.pdf",
+    "page": 160
+  },
+  {
+    "course_name": "Developmental Integrated Reading and Writing",
+    "course_code": "DERW 0302",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Integration of critical reading and academic writing skills. Will not count toward a degree.",
+    "source": "cisco_catalog.pdf",
+    "page": 160
+  },
+  {
+    "course_name": "Developmental ESL Oral Communication",
+    "course_code": "DESL 0301",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Develops listening and speaking skills in speakers of languages other than English and prepares them to function in educational, vocational and/or personal English-speaking contexts.",
+    "source": "cisco_catalog.pdf",
+    "page": 161
+  },
+  {
+    "course_name": "DMAT 0314",
+    "course_code": "DMAT 0314",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "Test placement",
+      "Verified STEM major"
+    ],
+    "description": "This course covers fundamentals of high school algebra including order of operations, solving and graphing linear equations, operations with polynomials, algebraic expressions, factoring, exponents, radicals, rational expressions, and rational exponents. It is designed for STEM majors who do not meet requirements for College Algebra co-requisite placement and prepares them for College Algebra.",
+    "source": "cisco_catalog.pdf",
+    "page": 161
+  },
+  {
+    "course_name": "DMAT 0324 Co-requisite for Mathematics for Business and Social Sciences",
+    "course_code": "DMAT 0324",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "Test placement"
+    ],
+    "description": "A support course for MATH 1324; includes supplemental instruction, supervision of assignments for MATH 1324, and various instructional interventions as needed. Students taking this course must also be registered for MATH 1324 during the same term. This is a nontransferable course and will not count towards any degree. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 161
+  },
+  {
+    "course_name": "DMAT 0332 Co -requisite for Contemporary Mathematics",
+    "course_code": "DMAT 0332",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "Test placement"
+    ],
+    "description": "A support course for MATH 1332; includes supplemental instruction, supervision of assignments for MATH 1332, and various instructional interventions as needed. Students must also be registered for MATH 1332 during the same term. This is a nontransferable course and will not count towards any degree. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 162
+  },
+  {
+    "course_name": "Shop Safety and Procedures",
+    "course_code": "DEMR 1401",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "A study of shop safety, rules, basic shop tools, and test equipment. Two lecture hours and 4 lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 162
+  },
+  {
+    "course_name": "DEMR 1413 Fuel Systems",
+    "course_code": "DEMR 1413",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "Overview of diesel fuel systems and related components. Two lecture hours and 4 lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 162
+  },
+  {
+    "course_name": "Advanced Electrical Systems",
+    "course_code": "DEMR 2439",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "A continuation of basic electrical systems to include various accessories and electronic systems. Emphasis on diagnosis, testing, and repair using the various tools and procedures for current electrical and electronic systems.",
+    "source": "cisco_catalog.pdf",
+    "page": 163
+  },
+  {
+    "course_name": "Theater Appreciation",
+    "course_code": "DRAM 1310",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Survey of all phases of theater including its history, dramatic works, stage techniques, production procedures, and relation to other art forms. Participation in productions may be required.",
+    "source": "cisco_catalog.pdf",
+    "page": 163
+  },
+  {
+    "course_name": "Stage Makeup",
+    "course_code": "DRAM 1341",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Design and execution of makeup for the stage performer. Includes discussion of makeup principles and practical experience of makeup application.",
+    "source": "cisco_catalog.pdf",
+    "page": 163
+  },
+  {
+    "course_name": "DRAM 1352 Acting II",
+    "course_code": "DRAM 1352",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "DRAM 1351"
+    ],
+    "description": "Exploration and further training within the basic principles and tools of acting, including an emphasis on critical analysis of oneself and others. The tools include ensemble performing, character and script analysis, and basic theater terminology. This will continue the exploration of the development of the actor\u2019s instrument: voice, body and imagination.",
+    "source": "cisco_catalog.pdf",
+    "page": 164
+  },
+  {
+    "course_name": "Theater Practicum IV",
+    "course_code": "DRAM 2121",
+    "credits": "1",
+    "prerequisites": [
+      "Theater scholarship or permission of the instructor"
+    ],
+    "description": "Practicum in theater open to all students with emphasis on technique and procedures with experience gained in play productions. Six lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 164
+  },
+  {
+    "course_name": "DRAM 2355 Script Analysis",
+    "course_code": "DRAM 2355",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Examination of the foundational skills for understanding the structure and content of play scripts for interpretation and conceptualization in theater productions by directors, designers, actors, and technicians. Introduces students to significant plays in the history of dramatic literature in the playwright\u2019s social and cultural context.",
+    "source": "cisco_catalog.pdf",
+    "page": 164
+  },
+  {
+    "course_name": "Voice for the Actor",
+    "course_code": "DRAM 2336",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Principles, practices, and exercises in awareness, relaxation, freedom, flexibility, and expressiveness in the actor\u2019s vocal instrument.",
+    "source": "cisco_catalog.pdf",
+    "page": 165
+  },
+  {
+    "course_name": "Principles of Macroeconomics",
+    "course_code": "ECON 2301",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "An analysis of the economy as a whole including measurement and determination of Aggregate Demand and Aggregate Supply, national income, inflation, and unemployment. Other topics include international trade, economic growth, business cycles, and fiscal policy and monetary policy.",
+    "source": "cisco_catalog.pdf",
+    "page": 165
+  },
+  {
+    "course_name": "Principles of Microeconomics",
+    "course_code": "ECON 2302",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Analysis of the behavior of individual economic agents, including consumer behavior and demand, producer behavior and supply, price and output decisions by firms under various market structures, factor markets, market failures, and international trade.",
+    "source": "cisco_catalog.pdf",
+    "page": 165
+  },
+  {
+    "course_name": "Learning Framework",
+    "course_code": "EDUC 1100",
+    "credits": "1 semester hour",
+    "prerequisites": [],
+    "description": "A study of the research and theory in the psychology of learning, cognition, and motivation; factors that impact learning, and application of learning strategies. Theoretical models of strategic learning, cognition, and motivation serve as the conceptual basis for the introduction of college-level student academic strategies. Students use assessment instruments to identify their own strengths and weaknesses as strategic learners and apply learning skills across academic programs.",
+    "source": "cisco_catalog.pdf",
+    "page": 166
+  },
+  {
+    "course_name": "EDUC 1300 Learning Framework",
+    "course_code": "EDUC 1300",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A study of the research and theory in the psychology of learning, cognition, and motivation; factors that impact learning, and application of learning strategies. Theoretical models of strategic learning, cognition, and motivation serve as the conceptual basis for the introduction of college-level student academic strategies. Students use assessment instruments to help identify their own strengths and weaknesses as strategic learners and integrate these skills across their academic programs.",
+    "source": "cisco_catalog.pdf",
+    "page": 166
+  },
+  {
+    "course_name": "Introduction to the Teaching Profession",
+    "course_code": "EDUC 1301",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "An enriched, integrated pre-service course providing active recruitment and support for students interested in a teaching career, especially in high need fields. Includes early field observations in diverse P-12 schools, support from faculty, and analysis of the culture of schooling and classrooms. Content aligned with State Board for Educator Certification Pedagogy and Professional Responsibilities standards.",
+    "source": "cisco_catalog.pdf",
+    "page": 166
+  },
+  {
+    "course_name": "EDUC 2301 Introduction to Special Populations",
+    "course_code": "EDUC 2301",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "EDUC 1301"
+    ],
+    "description": "An enriched, integrated pre-service course that provides an overview of schooling and classrooms from perspectives of language, gender, socioeconomic status, ethnic and academic diversity, and equity with emphasis on factors that facilitate learning. Includes opportunities for early field observations of P-12 special populations. Must include a minimum of 16 contact hours of field experience in P-12 classrooms with special populations.",
+    "source": "cisco_catalog.pdf",
+    "page": 167
+  },
+  {
+    "course_name": "Introduction to Engineering",
+    "course_code": "ENGR 1201",
+    "credits": "Two semester hours",
+    "prerequisites": [
+      "Math 1314 College Algebra or equivalent"
+    ],
+    "description": "An introduction to the engineering profession with emphasis on technical communication and team-based engineering design. Two lecture hours; two lab hours per week. Lab project material fee charged.",
+    "source": "cisco_catalog.pdf",
+    "page": 167
+  },
+  {
+    "course_name": "ENGR 2301 Engineering Mechanics \u2013 Statics",
+    "course_code": "ENGR 2301",
+    "credits": "Three semester hours",
+    "prerequisites": [
+      "PHYS 2425 University Physics I"
+    ],
+    "description": "Basic theory of engineering mechanics, using calculus, involving the description of forces, moments, and couples acting on stationary engineering structures; equilibrium in two and three dimensions; free-body diagrams; friction; centroids; centers of gravity; and moments of inertia.",
+    "source": "cisco_catalog.pdf",
+    "page": 167
+  },
+  {
+    "course_name": "Engineering Economics",
+    "course_code": "ENGR 2308",
+    "credits": "Three semester hours",
+    "prerequisites": [
+      "MATH 2413 Calculus I (4 SCH version)"
+    ],
+    "description": "Methods used for determining the comparative financial desirability of engineering alternatives. Provides the student with the basic tools required to analyze engineering alternatives in terms of their worth and cost, an essential element of engineering practice. The student is introduced to the concept of the time value of money and the methodology of basic engineering economy techniques. The course will address some aspects of sustainability and will provide the student with the background to enable them to pass the Engineering Economy portion of the Fundamentals of Engineering exam.",
+    "source": "cisco_catalog.pdf",
+    "page": 168
+  },
+  {
+    "course_name": "ENGL 2307 Creative Writing I",
+    "course_code": "ENGL 2307",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Practical experience in the techniques of imaginative writing. May include fiction, nonfiction, poetry, or drama. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 168
+  },
+  {
+    "course_name": "British Literature",
+    "course_code": "ENGL 2321",
+    "credits": "",
+    "prerequisites": [
+      "ENGL 1301",
+      "ENGL 1302"
+    ],
+    "description": "A survey of the development of British literature from the Anglo-Saxon period to the present. Students will study works of prose, poetry, drama, and fiction in relation to their historical, linguistic, and cultural contexts. Texts will be selected from a diverse group of authors and traditions.",
+    "source": "cisco_catalog.pdf",
+    "page": 169
+  },
+  {
+    "course_name": "ENGL 2323 British Literature II",
+    "course_code": "ENGL 2323",
+    "credits": "",
+    "prerequisites": [
+      "ENGL 1301",
+      "ENGL 1302"
+    ],
+    "description": "A survey of the development of British literature from the Romantic period to the present. Students will study works of prose, poetry, drama, and fiction in relation to their historical and cultural contexts. Texts will be selected from a diverse group of authors and traditions. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 169
+  },
+  {
+    "course_name": "American Literature I",
+    "course_code": "ENGL 2327",
+    "credits": "",
+    "prerequisites": [
+      "ENGL 1301",
+      "ENGL 1302"
+    ],
+    "description": "A survey of American literature from the period of exploration and settlement through the Civil War. Students will study works of prose, poetry, drama and fiction in relation to their historical and cultural contexts. Texts will be selected from among a diverse group of authors for what they reflect and reveal about the evolving American experience and character. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 169
+  },
+  {
+    "course_name": "American Literature II",
+    "course_code": "ENGL 2328",
+    "credits": "",
+    "prerequisites": [
+      "ENGL 1301",
+      "ENGL 1302"
+    ],
+    "description": "A survey of American literature from the civil war to the present. Students will study works of prose, poetry, drama and fiction in relation to their historical and cultural contexts. Texts will be selected from among a diverse group of authors for what they reflect and reveal about the evolving American experience and character.",
+    "source": "cisco_catalog.pdf",
+    "page": 170
+  },
+  {
+    "course_name": "ENGL 2332 World Literature I",
+    "course_code": "ENGL 2332",
+    "credits": "",
+    "prerequisites": [
+      "ENGL 1301",
+      "ENGL 1302"
+    ],
+    "description": "A survey of world literature from the ancient world through the sixteenth century. Students will study works of prose, poetry, drama, and fiction in relationship to their historical and cultural contexts. Texts will be selected from a diverse group of authors and traditions.",
+    "source": "cisco_catalog.pdf",
+    "page": 170
+  },
+  {
+    "course_name": "ENGL 2341 Forms of Literature",
+    "course_code": "ENGL 2341",
+    "credits": "",
+    "prerequisites": [
+      "ENGL 1301",
+      "ENGL 1302"
+    ],
+    "description": "The study of one or more literary genres including, but not limited to, poetry, fiction, drama, and film. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 170
+  },
+  {
+    "course_name": "ENGL 2389 Academic Cooperative",
+    "course_code": "ENGL 2389",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "ENGL 1301",
+      "ENGL 1302"
+    ],
+    "description": "An instructional program designed to integrate on-campus study with practical hands-on work experience. In conjunction with class seminars, the individual student will set specific goals and objectives in the study of English language and literature. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 171
+  },
+  {
+    "course_name": "ENVR 1402 Environmental Science II",
+    "course_code": "ENVR 1402",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "General interest course requiring a minimum of previous science background and relating scientific knowledge to problems involving energy and the environment. Three lecture hours, three lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 171
+  },
+  {
+    "course_name": "FIRS 1313 Firefighter Certification III",
+    "course_code": "FIRS 1313",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "One in a series of courses in basic preparation for a new firefighter. Should be taken in conjunction with Firefighter Certification I, II, IV, V, VI, and VII to satisfy the Texas Commission on Fire Protection (TCFP) curriculum for Basic Structural Fire Suppression, Course #100. Three lecture hours, two lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 171
+  },
+  {
+    "course_name": "Firefighter Certification V",
+    "course_code": "FIRS 1323",
+    "credits": "3 semester credit hours",
+    "prerequisites": [],
+    "description": "One in a series of courses in basic preparation for a new firefighter. Should be taken in conjunction with Firefighter Certification I, II, III, IV, VI, and VII to satisfy the Texas Commission on Fire Protection (TCFP) curriculum for Basic Structural Fire Suppression, Course #100. Two lecture hours, two lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 172
+  },
+  {
+    "course_name": "FIRS 1407 Firefighter Certification II",
+    "course_code": "FIRS 1407",
+    "credits": "4 semester credit hours",
+    "prerequisites": [],
+    "description": "One in a series of courses in basic preparation for a new firefighter. Should be taken in conjunction with Firefighter Certification I, III, IV, V, VI, and VII to satisfy the Texas Commission on Fire Protection (TCFP) curriculum for Basic Structural Fire Suppression, Course #100. Three lecture hours, two lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 172
+  },
+  {
+    "course_name": "EMSP 2237 Emergency Procedures",
+    "course_code": "EMSP 2237",
+    "credits": "2 semester hours",
+    "prerequisites": [],
+    "description": "Instruction in a laboratory environment concentrating on practical medical skills and critical thinking abilities. Topics include a variety of skills appropriate to the student's training level. Required verifications of specific skills may be included.",
+    "source": "cisco_catalog.pdf",
+    "page": 172
+  },
+  {
+    "course_name": "EMSP 1261 Clinical \u2013 Emergency Medical \u2013 Technology/Technician",
+    "course_code": "EMSP 1261",
+    "credits": "2 semester credit hours",
+    "prerequisites": [],
+    "description": "A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision is provided by the clinical professional. Seven clinical hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 173
+  },
+  {
+    "course_name": "Fire Prevention Codes and Inspection",
+    "course_code": "FIRT 1307",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Local building and fire prevention codes. Fire prevention inspections, practices, and procedures.",
+    "source": "cisco_catalog.pdf",
+    "page": 173
+  },
+  {
+    "course_name": "Firefighter Health and Safety",
+    "course_code": "FIRT 1319",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Firefighter occupational safety and health in emergency and non-emergency situations. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 173
+  },
+  {
+    "course_name": "Fire Officer I",
+    "course_code": "FIRT 1342",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Requirements for Fire Officer I certification as established by the Texas Commission on Fire Protection. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 174
+  },
+  {
+    "course_name": "Legal Aspects of Fire Protection",
+    "course_code": "FIRT 1353",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Study of the rights, duties, liability concerns, and responsibilities of public fire protection agencies while performing assigned duties. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 174
+  },
+  {
+    "course_name": "Fire Instructor I",
+    "course_code": "FIRT 2305",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Preparation of fire and emergency services personnel to deliver instruction from a prepared lesson plan. Includes the use of instructional aids and evaluation instruments to meet the Texas Commission on Fire Protection requirements for Fire Instructor I certification.",
+    "source": "cisco_catalog.pdf",
+    "page": 175
+  },
+  {
+    "course_name": "Firefighter Strategies and Tactics I",
+    "course_code": "FIRT 2309",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Analysis of the nature of fire problems and selection of initial strategies and tactics including an in-depth study of efficient and effective use of manpower and equipment to mitigate the emergency.",
+    "source": "cisco_catalog.pdf",
+    "page": 175
+  },
+  {
+    "course_name": "FREN 2311 Intermediate French I",
+    "course_code": "FREN 2311",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "FREN 1412",
+      "advanced standing by examination"
+    ],
+    "description": "Review and application of skills in listening comprehension, speaking, reading, and writing. Emphasizes conversation, vocabulary acquisition, reading, composition, and culture. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 175
+  },
+  {
+    "course_name": "FREN 2312 Intermediate French II",
+    "course_code": "FREN 2312",
+    "credits": "3",
+    "prerequisites": [
+      "FREN 2311"
+    ],
+    "description": "Review and application of skills in listening comprehension, speaking, reading, and writing. Emphasizes conversation, vocabulary acquisition, reading, composition, and culture.",
+    "source": "cisco_catalog.pdf",
+    "page": 176
+  },
+  {
+    "course_name": "GEOL 2389 Academic Cooperative",
+    "course_code": "GEOL 2389",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "An instructional program designed to integrate on-campus study with practical hands-on work experience in the physical sciences. In conjunction with class seminars, students set specific goals in the scientific study of inanimate objects, processes of matter and energy, and associated phenomena. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 176
+  },
+  {
+    "course_name": "Beginning German II",
+    "course_code": "GERM 1412",
+    "credits": "4",
+    "prerequisites": [
+      "GERM 1411"
+    ],
+    "description": "Fundamental skills in listening comprehension, speaking, reading, and writing. Includes basic vocabulary, grammatical structures, and culture. Three lecture hours, one lab hour per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 176
+  },
+  {
+    "course_name": "GERM 2311 Intermediate German I",
+    "course_code": "GERM 2311",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "GERM 1412",
+      "advanced standing by examination"
+    ],
+    "description": "Review and application of skills in listening comprehension, speaking, reading, and writing. Emphasizes conversation, vocabulary acquisition, reading, composition, and culture.",
+    "source": "cisco_catalog.pdf",
+    "page": 177
+  },
+  {
+    "course_name": "GOVT 2306 Texas Government",
+    "course_code": "GOVT 2306",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Origin and development of the Texas constitution, structure and powers of state and local government, federalism and inter-governmental relations, political participation, the election process, public policy, and the political culture of Texas.",
+    "source": "cisco_catalog.pdf",
+    "page": 177
+  },
+  {
+    "course_name": "United States History I",
+    "course_code": "",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Includes the study of pre-Columbian, colonial, revolutionary, early national, slavery and sectionalism, and the Civil War/Reconstruction eras. Themes include American settlement and diversity, American culture, religion, civil and human rights, technological change, economic change, immigration and migration, and creation of the federal government. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 177
+  },
+  {
+    "course_name": "United States History II",
+    "course_code": "HIST 1302",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "A survey of the social, political, economic, cultural, and intellectual history of the United States from the Civil War/Reconstruction era to the present. Examines industrialization, immigration, world wars, the Great Depression, Cold War and post-Cold War eras with themes including American culture, religion, civil and human rights, technological change, economic change, immigration and migration, urbanization and suburbanization, expansion of the federal government, and U.S. foreign policy.",
+    "source": "cisco_catalog.pdf",
+    "page": 178
+  },
+  {
+    "course_name": "HIST 2322 World Civilizations II",
+    "course_code": "HIST 2322",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "A survey of the social, political, economic, cultural, religious, and intellectual history of the world from the 15th century to the present. The course examines major cultural regions of the world in Africa, the Americas, Asia, Europe, and Oceania and their global interactions over time. Themes include maritime exploration and transoceanic empires, nation/state formation and industrialization, imperialism, global conflicts and resolutions, and global economic integration.",
+    "source": "cisco_catalog.pdf",
+    "page": 178
+  },
+  {
+    "course_name": "Fine Arts Appreciation",
+    "course_code": "HUMA 1315",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "This course is an exploration of the purposes and processes in the visual and performing arts such as music, painting, architecture, drama, and dance and the ways in which they express the values of cultures and human experience.",
+    "source": "cisco_catalog.pdf",
+    "page": 179
+  },
+  {
+    "course_name": "Introduction to Electrical Safety and Tools",
+    "course_code": "ELPT 1421",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Safety rules and regulations. Includes the selection, inspection, use, and maintenance of common tools for electricians. Two hours lecture, four hours lab per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 179
+  },
+  {
+    "course_name": "Residential Wiring",
+    "course_code": "ELPT 1429",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Wiring methods for single family and multi-family dwellings. Includes load calculations, service entrance sizing, proper grounding techniques, and associated safety procedures.",
+    "source": "cisco_catalog.pdf",
+    "page": 180
+  },
+  {
+    "course_name": "ELPT 2449 Industrial Automation",
+    "course_code": "ELPT 2449",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "Electrical control systems, applications, and interfacing utilized in industrial automation. Two hours lecture, four hours lab per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 180
+  },
+  {
+    "course_name": "Residential Air Conditioning",
+    "course_code": "HART 1441",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "A study of components, applications, and installation of mechanical air conditioning systems including operating condition, troubleshooting, repair, and charging of air conditioning systems. Two lecture hours, four lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 180
+  },
+  {
+    "course_name": "HART 2434 Advanced Air Conditioning Controls",
+    "course_code": "HART 2434",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Theory and application of electrical control devices, electromechanical controls, and/or pneumatic controls. Two lecture hours, four lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 181
+  },
+  {
+    "course_name": "HART 2441 Commercial Air Conditioning",
+    "course_code": "HART 2441",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "HART 1407"
+    ],
+    "description": "A study of components, applications, and installation of air conditioning systems with capacities of 25 tons or less. Two lecture hours, four lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 181
+  },
+  {
+    "course_name": "HYDR 1345 Hydraulics and Pneumatics",
+    "course_code": "HYDR 1345",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Fundamentals of hydraulics and types of hydraulic pumps, cylinders, valves, motors, and related systems including operations, maintenance, and system analysis.",
+    "source": "cisco_catalog.pdf",
+    "page": 181
+  },
+  {
+    "course_name": "IEIR 1410 Motor Controls",
+    "course_code": "IEIR 1410",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "CETT 1402"
+    ],
+    "description": "General principles and fundamentals of electrical controls and control components including starters, troubleshooting techniques, various protective devices, schematics, and diagrams. Two lecture hours, four lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 182
+  },
+  {
+    "course_name": "Precision Tools and Measurement",
+    "course_code": "MCHN 1320",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "An introduction to the modern science of dimensional metrology, with emphasis on the identification, selection, and application of various types of precision instruments associated with the machining trade. Practice of basic layout and piece part measurements while using standard measuring tools.",
+    "source": "cisco_catalog.pdf",
+    "page": 182
+  },
+  {
+    "course_name": "Fundamentals of Computer Numerical Controlled (CNC) Machines Controls",
+    "course_code": "MCHN 2403",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Programming and operation of Computer Numerical Controlled (CNC) machine shop equipment. Demonstrate operations of CNC machine controls; compare and contrast the differences between conventional and CNC machines; and utilize CNC machine equipment for machining operations.",
+    "source": "cisco_catalog.pdf",
+    "page": 182
+  },
+  {
+    "course_name": "Operations of CNC Machining Centers",
+    "course_code": "MCHN 2434",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "CNC operations with an emphasis on Machining centers. Set up and operate CNC machining centers; set machine and tool offsets for machining operations; and edit the program as required.",
+    "source": "cisco_catalog.pdf",
+    "page": 183
+  },
+  {
+    "course_name": "WDWK 1313 Cabinet Making",
+    "course_code": "WDWK 1313",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Design and construction of base cabinets and wall cabinets for kitchens and bathrooms with emphasis on the safe use of portable and stationary power tools. Finishing techniques include proper sanding, sealing, staining, and finishing techniques. One lecture hour, four lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 183
+  },
+  {
+    "course_name": "KINE 1102 Physical Training for Freshmen",
+    "course_code": "KINE 1102",
+    "credits": "1 semester hour",
+    "prerequisites": [],
+    "description": "A continuation of KINE 1101. Three lab hours each week.",
+    "source": "cisco_catalog.pdf",
+    "page": 183
+  },
+  {
+    "course_name": "KINE 1306 First Aid",
+    "course_code": "KINE 1306",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Instruction in and practice for emergency care. Designed to enable students to recognize and avoid hazards, render intelligent assistance in case of accident or sudden illness, and develop skills for immediate and temporary care of the victim. Successful completion may enable the student to receive a certificate from a nationally recognized agency.",
+    "source": "cisco_catalog.pdf",
+    "page": 184
+  },
+  {
+    "course_name": "Principles of Athletic Coaching",
+    "course_code": "KINE 1321",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "This course is designed to present foundational knowledge and management skills essential for coaching. Emphasis is on a comprehensive approach to the foundations and theories of coaching including development of a philosophy, objectives, coaching for character, coaching diverse athletes, and motivational techniques. Rules and terminology of competitive sports will be covered.",
+    "source": "cisco_catalog.pdf",
+    "page": 184
+  },
+  {
+    "course_name": "KINE 1338 Concepts of Physical Fitness",
+    "course_code": "KINE 1338",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "This course is designed to familiarize students with knowledge, understanding, and values of health related fitness and its influence on the quality of life emphasizing the development and implementation of fitness programs.",
+    "source": "cisco_catalog.pdf",
+    "page": 185
+  },
+  {
+    "course_name": "KINE 2101 Physical Training for Sophomores",
+    "course_code": "KINE 2101",
+    "credits": "1 semester hour",
+    "prerequisites": [],
+    "description": "Instruction and participation in physical and recreational activities including: basketball, badminton, baseball, bowling, football, golf, racquetball, softball, volleyball, rodeo, athletic training, or physical fitness. Three lab hours each week.",
+    "source": "cisco_catalog.pdf",
+    "page": 185
+  },
+  {
+    "course_name": "Care and Prevention of Athletic Injuries",
+    "course_code": "KINE 2356",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Prevention and care of athletic injuries with emphasis on qualities of a good athletic trainer, avoiding accidents and injuries, recognizing signs and symptoms of specific sports injuries and conditions, immediate and long-term care of injuries, and administration procedures in athletic training.",
+    "source": "cisco_catalog.pdf",
+    "page": 185
+  },
+  {
+    "course_name": "Psychological Aspects of Human Performance",
+    "course_code": "KINE 2358",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "This course introduces the psychological factors influencing performance and participation in sports and exercise. Topics include motivation, confidence, focus, goal setting, stress management, team dynamics, and leadership. Students will gain knowledge of mental skills and strategies to optimize human performance.",
+    "source": "cisco_catalog.pdf",
+    "page": 186
+  },
+  {
+    "course_name": "MATH 1314 College Algebra",
+    "course_code": "MATH 1314",
+    "credits": "3",
+    "prerequisites": [
+      "Meet TSI college-readiness standard for Mathematics",
+      "High School Algebra I & II"
+    ],
+    "description": "In-depth study and applications of polynomial, rational, radical, exponential and logarithmic functions, and systems of equations using matrices. Additional topics such as sequences, series, probability, and conics may be included; may not apply toward a major in math. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 186
+  },
+  {
+    "course_name": "MATH 1324 Mathematics for Business and Social Sciences (Finite Mathematics)",
+    "course_code": "MATH 1324",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "The application of common algebraic functions, including polynomial, exponential, logarithmic, and rational, to problems in business, economics, and the social sciences are addressed. The applications include mathematics of finance, including simple and compound interest and annuities; systems of linear equations; matrices; linear programming; and probability, including expected value.",
+    "source": "cisco_catalog.pdf",
+    "page": 186
+  },
+  {
+    "course_name": "MATH 1325 Calculus for Business and Social Sciences",
+    "course_code": "MATH 1325",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "MATH 1324",
+      "MATH 1314"
+    ],
+    "description": "This course is the basic study of limits and continuity, differentiation, optimization and graphing, and integration of elementary functions, with emphasis on applications in business, economics, and social sciences.",
+    "source": "cisco_catalog.pdf",
+    "page": 187
+  },
+  {
+    "course_name": "MATH 1342 Elementary Statistics",
+    "course_code": "MATH 1342",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "Meet TSI college-readiness standard for Mathematics",
+      "High School Algebra I & II"
+    ],
+    "description": "Collection, analysis, presentation and interpretation of data, and probability. Analysis includes descriptive statistics, correlation and regression, confidence intervals and hypothesis testing. Utilization of appropriate technology is required.",
+    "source": "cisco_catalog.pdf",
+    "page": 187
+  },
+  {
+    "course_name": "Mathematics for Teachers II",
+    "course_code": "MATH 1351",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "MATH 1314 College Algebra (3SCH version) or equivalent"
+    ],
+    "description": "This course is intended to build or reinforce a foundation in fundamental mathematics concepts and skills. It includes the concepts of geometry, measurement, probability, and statistics with an emphasis on problem solving and critical thinking.",
+    "source": "cisco_catalog.pdf",
+    "page": 187
+  },
+  {
+    "course_name": "MATH 2412 Pre-calculus",
+    "course_code": "MATH 2412",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "Meet TSI college-readiness standard for Mathematics",
+      "High School Algebra I & II",
+      "MATH 1314"
+    ],
+    "description": "In-depth combined study of algebra, trigonometry, and other topics for calculus readiness. Applications of algebra and trigonometry to the study of elementary functions and their graphs including polynomial, rational, exponential, logarithmic, and trigonometric functions. May include topics from analytic geometry; may not apply toward a major in math.",
+    "source": "cisco_catalog.pdf",
+    "page": 188
+  },
+  {
+    "course_name": "MATH 2414 Calculus II with Analytical Geometry",
+    "course_code": "MATH 2414",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "MATH 2413"
+    ],
+    "description": "Differentiation and integration of transcendental functions; parametric equations and polar coordinates; techniques of integration; numerical methods; indeterminate forms; improper integrals; sequences and series. Four lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 188
+  },
+  {
+    "course_name": "MATH 2415 Calculus III with Analytical Geometry",
+    "course_code": "MATH 2415",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "MATH 2414"
+    ],
+    "description": "Multivariable calculus, including vectors and vector-valued functions, partial differentiation, gradient, Lagrange multipliers, multiple integrals, and Jacobians; application of the line integral, including Green\u2019s Theorem, the Divergence Theorem, and Stokes\u2019 Theorem.",
+    "source": "cisco_catalog.pdf",
+    "page": 188
+  },
+  {
+    "course_name": "HITT 1313 Coding and Insurance",
+    "course_code": "HITT 1313",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "MDCA 1313",
+      "MCDA 1409"
+    ],
+    "description": "An overview of skills and knowledge in ICD and CPT coding and claims forms for reimbursement of medical services. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 189
+  },
+  {
+    "course_name": "Medical Assistant Interpersonal and Communications and Skills",
+    "course_code": "MDCA 1310",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Emphasis on the application of basic psychological principles and the study of behavior as they apply to special populations. Topics include procedures for self-understanding and social adaptability in interpersonal communication with patients and co-workers in an ambulatory care setting.",
+    "source": "cisco_catalog.pdf",
+    "page": 189
+  },
+  {
+    "course_name": "MDCA 1343 Medical Insurance",
+    "course_code": "MDCA 1343",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Emphasizes medical office coding for payment and reimbursement by patient or third party payers for ambulatory care settings. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 189
+  },
+  {
+    "course_name": "Anatomy and Physiology for Medical Assistants",
+    "course_code": "MDCA 1409",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Emphasis on structure and functions of human cells, tissues, organs, and systems, with overview of common pathophysiology. Three lecture hours, two hours lab per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 190
+  },
+  {
+    "course_name": "Medical Assistant Laboratory Procedures",
+    "course_code": "MDCA 1452",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Application of governmental health care guidelines. Includes specimen collection and handling, quality assurance, and quality control in performance of Clinical Laboratory Improvement Amendments (CLIA)-waived laboratory testing. Two hours lecture, four-hour lab per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 190
+  },
+  {
+    "course_name": "MDCA 2460 Clinical Medical Assisting",
+    "course_code": "MDCA 2460",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills and concepts. Direct supervision is provided by the clinical professional. Must have permission from the Program Director. Twelve clinical hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 190
+  },
+  {
+    "course_name": "Brass Instrument",
+    "course_code": "MUAP 1137, 1237",
+    "credits": "1 or 2 semester hours",
+    "prerequisites": [],
+    "description": "Individual instruction in trumpet, French horn, trombone, baritone, or tuba; proficiency examination required of music majors upon entrance; may be repeated for credit. One or two lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 191
+  },
+  {
+    "course_name": "MUAP 1181, 1281 Voice",
+    "course_code": "MUAP 1181, 1281",
+    "credits": "1 or 2 semester hours",
+    "prerequisites": [],
+    "description": "Individual instruction in singing; proficiency examination required of music majors upon entrance; may be repeated for credit. One or two lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 191
+  },
+  {
+    "course_name": "Pep Band",
+    "course_code": "MUEN 1132",
+    "credits": "1 semester hour",
+    "prerequisites": [],
+    "description": "This course consists of a spirit based performance ensemble designed to help promote school spirit and enthusiasm especially at indoor athletic events. The ensemble is also used for promotional opportunities at area activities and assemblies. May be repeated for credit. Three lab hours per week and all home volleyball/basketball games during the school term.",
+    "source": "cisco_catalog.pdf",
+    "page": 191
+  },
+  {
+    "course_name": "MUEN 1133 Special Ensembles \u2013 Instrumental",
+    "course_code": "MUEN 1133",
+    "credits": "1 semester hour",
+    "prerequisites": [],
+    "description": "Select instrumental groups; performance includes country, popular, Dixieland, rock, and dramatic music; selection by audition; may be repeated for credit. Three lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 192
+  },
+  {
+    "course_name": "MUEN 1151 Vocal Ensemble",
+    "course_code": "MUEN 1151",
+    "credits": "1 semester hour",
+    "prerequisites": [
+      "Audition",
+      "instructor permission"
+    ],
+    "description": "A select chamber vocal ensemble. Repertoire may include chamber music, madrigals, show Vocal Ensemble numbers. Students must be prepared for frequent performances and touring, including dance. Two lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 192
+  },
+  {
+    "course_name": "Marching Band",
+    "course_code": "",
+    "credits": "2 semester hours",
+    "prerequisites": [],
+    "description": "Course involves activities and requirements of a college band with six lecture hours and three lab hours per week. Kinesiology credit granted. May be repeated for credit.",
+    "source": "cisco_catalog.pdf",
+    "page": 192
+  },
+  {
+    "course_name": "MUEN 1251 Vocal Ensemble",
+    "course_code": "MUEN 1251",
+    "credits": "2 semester hours",
+    "prerequisites": [
+      "Audition",
+      "instructor permission"
+    ],
+    "description": "A select chamber vocal ensemble with repertoire including chamber music, madrigals, and show Vocal Ensemble numbers. Students must be prepared for frequent performances and touring, including dance. May be repeated for credit.",
+    "source": "cisco_catalog.pdf",
+    "page": 193
+  },
+  {
+    "course_name": "Music Appreciation",
+    "course_code": "MUSI 1306",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Understanding music through the study of cultural periods, major composers, and musical elements. Illustrated with audio recordings and live performances.",
+    "source": "cisco_catalog.pdf",
+    "page": 193
+  },
+  {
+    "course_name": "Music Theory II",
+    "course_code": "MUSI 1312",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Continued analysis and writing of tonal melody and diatonic harmony up to and including the chords. Analysis and writing of small compositional forms. Correlated study at the keyboard.",
+    "source": "cisco_catalog.pdf",
+    "page": 193
+  },
+  {
+    "course_name": "MUSI 2116 Advanced Sight-singing and Aural Skills I",
+    "course_code": "MUSI 2116",
+    "credits": "1 semester hour",
+    "prerequisites": [],
+    "description": "Singing more difficult tonal music including modal, ethnic, and 20th century materials. Aural study, including dictation of more complex rhythm, melody chromatic harmony, and extended tertian structures. Two lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 194
+  },
+  {
+    "course_name": "Music Theory IV",
+    "course_code": "MUSI 2312",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Continuation of advanced harmony part writing and keyboard analysis and writing of more advanced tonal harmony including chromaticism and extended tertian structures. Introduction of 20th century compositional procedures and survey of the traditional large forms of composition. Correlated study at the keyboard.",
+    "source": "cisco_catalog.pdf",
+    "page": 194
+  },
+  {
+    "course_name": "HPRS 1101 Introduction to Health Professions",
+    "course_code": "HPRS 1101",
+    "credits": "1",
+    "prerequisites": [],
+    "description": "An overview of roles of various members of the health care system, educational requirements, and issues affecting the delivery of health care.",
+    "source": "cisco_catalog.pdf",
+    "page": 194
+  },
+  {
+    "course_name": "Health Care Communications",
+    "course_code": "HPRS 2332",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Methods of communication with clients, client support groups, health care professionals, and external agencies.",
+    "source": "cisco_catalog.pdf",
+    "page": 195
+  },
+  {
+    "course_name": "Transition to professional nursing competencies",
+    "course_code": "",
+    "credits": "1",
+    "prerequisites": [],
+    "description": "Validates proficiency in psychomotor skills and clinical reasoning in the performance of nursing procedures related to clinical judgment, comfort, elimination, fluid and electrolytes, nutrition, gas exchange, safety, functional ability, immunity, metabolism, mobility, and tissue integrity. Includes health assessment and medication administration. This course uses a concept-based approach.",
+    "source": "cisco_catalog.pdf",
+    "page": 195
+  },
+  {
+    "course_name": "Professional Nursing Concepts III",
+    "course_code": "RNSG 1137",
+    "credits": "1",
+    "prerequisites": [],
+    "description": "Application of professional nursing concepts and exemplars within the professional nursing roles. Utilizes concepts of clinical judgment, ethical-legal, evidenced-based practice, patient-centered care, professionalism, safety, teamwork and collaboration. Introduces the concepts of quality improvement, health information technology, and health care organizations.",
+    "source": "cisco_catalog.pdf",
+    "page": 195
+  },
+  {
+    "course_name": "Introduction to Nursing",
+    "course_code": "RNSG 1209",
+    "credits": "2",
+    "prerequisites": [],
+    "description": "Overview of nursing and the role of the professional nurse as provider in patient-centered care, patient safety advocate, member of health care team, and member of the profession. Content includes knowledge, judgement, skills and professional values with a legal/ethical framework.",
+    "source": "cisco_catalog.pdf",
+    "page": 196
+  },
+  {
+    "course_name": "Clinical Transition",
+    "course_code": "RNSG 1361",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision is provided by the clinical professional. Nine clinical hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 196
+  },
+  {
+    "course_name": "Concept-Based Transition to Professional Nursing Practice",
+    "course_code": "RNSG 1424",
+    "credits": "",
+    "prerequisites": [],
+    "description": "Integration of previous health care knowledge and skills into the role development of the professional nurse as a provider of patient-centered care, patient safety advocate, member of health care team, and member of the profession. Emphasis is on clinical decision-making for patients and their families. Review of selected health care and professional nursing concepts with application through exemplars.",
+    "source": "cisco_catalog.pdf",
+    "page": 196
+  },
+  {
+    "course_name": "Health Care Concepts III",
+    "course_code": "RNSG 1538",
+    "credits": "5",
+    "prerequisites": [],
+    "description": "In-depth coverage of health care concepts with nursing application through selected exemplars. Concepts include cellular regulation, end of life, immunity, interpersonal relationships, grief, human development, intracranial regulation, mood/affect, comfort, sexuality, mobility, and reproduction. Provides continuing opportunities for development of clinical judgment skills.",
+    "source": "cisco_catalog.pdf",
+    "page": 197
+  },
+  {
+    "course_name": "Professional Nursing Concepts IV",
+    "course_code": "RNSG 2238",
+    "credits": "2",
+    "prerequisites": [],
+    "description": "Integration of professional nursing concepts and exemplars within the professional nursing roles. Synthesizes concepts of clinical judgment, ethical-legal, evidence-based practice, leadership and management, patient-centered care, professionalism, teamwork, and collaboration through exemplars presented in the Health Care Concepts courses. Emphasizes concept of quality improvement and introduces health policy. Incorporates concepts into role development of the professional nurse.",
+    "source": "cisco_catalog.pdf",
+    "page": 197
+  },
+  {
+    "course_name": "Health Care Concepts IV",
+    "course_code": "RNSG 2539",
+    "credits": "5",
+    "prerequisites": [],
+    "description": "In-depth coverage of advanced health care concepts with nursing application through selected exemplars. Concepts include cognition, immunity, clotting, fluid and electrolyte balance, gas exchange, metabolism, nutrition, perfusion, tissue integrity, and interpersonal relationships. Continuing development of clinical judgment with integration of all health care concepts.",
+    "source": "cisco_catalog.pdf",
+    "page": 197
+  },
+  {
+    "course_name": "VNSG 1160 Clinical I",
+    "course_code": "VNSG 1160",
+    "credits": "1 semester hour",
+    "prerequisites": [],
+    "description": "A health-related work-based learning experience that enables the student to apply specialized occupation theory, skills, and concepts. Direct supervision is provided by the clinical professional. Six clinical hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 198
+  },
+  {
+    "course_name": "Pediatrics",
+    "course_code": "VNSG 1234",
+    "credits": "2 semester hours",
+    "prerequisites": [],
+    "description": "Study of the care of the pediatric patient and family during health and disease. Emphasis on growth and developmental needs utilizing the nursing process and clinical judgement model. Two lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 198
+  },
+  {
+    "course_name": "VNSG 1304 Foundations of Nursing",
+    "course_code": "VNSG 1304",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Introduction to the nursing profession including history, standards of practice, legal and ethical issues, and role of the vocational nurse. Topics include mental health, therapeutic communication, cultural and spiritual diversity, patient preference, nursing process using clinical judgement model, and holistic awareness.",
+    "source": "cisco_catalog.pdf",
+    "page": 198
+  },
+  {
+    "course_name": "VNSG 1331 Pharmacology",
+    "course_code": "VNSG 1331",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Fundamentals of medications and their diagnostic, therapeutic, and curative effects. Includes nursing interventions utilizing the nursing process and clinical judgement model.",
+    "source": "cisco_catalog.pdf",
+    "page": 199
+  },
+  {
+    "course_name": "VNSG 1432 Medical-Surgical Nursing II",
+    "course_code": "VNSG 1432",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Mastery of entry-level nursing skills and competencies for a variety of health care settings. Utilization of the nursing process as the foundation for all nursing interventions. Three lecture hours and two lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 199
+  },
+  {
+    "course_name": "VNSG 2161 Clinical for Pediatric Nursing",
+    "course_code": "VNSG 2161",
+    "credits": "1 semester hour",
+    "prerequisites": [],
+    "description": "A health-related work-based learning experience that enables the student to apply specialized occupation theory, skills, and concepts. Direct supervision is provided by the clinical professional. Concepts of mental health, pharmacology, nutrition, nursing process and technical skills are emphasized.",
+    "source": "cisco_catalog.pdf",
+    "page": 199
+  },
+  {
+    "course_name": "VNSG 2260 Clinical for Medical-Surgical Nursing II",
+    "course_code": "VNSG 2260",
+    "credits": "2 semester hours",
+    "prerequisites": [],
+    "description": "A health-related work-based learning experience that enables the student to apply specialized occupation theory, skills, and concepts. Direct supervision is provided by the clinical professional. Ten clinical hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 200
+  },
+  {
+    "course_name": "Pharmacy Technician Certification Review",
+    "course_code": "PHRA 1143",
+    "credits": "1 semester hour",
+    "prerequisites": [],
+    "description": "A review of major topics covered on the national Pharmacy Technician Certification examination (PTCE). One lecture hour per week, one lab hour per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 200
+  },
+  {
+    "course_name": "PHRA 1209 Pharmaceutical Mathematics I",
+    "course_code": "PHRA 1209",
+    "credits": "2 semester hours",
+    "prerequisites": [],
+    "description": "Solving pharmaceutical calculation problems encountered in the preparation and distribution of drugs. One hour lecture and two lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 200
+  },
+  {
+    "course_name": "Pharmaceutical Mathematics II",
+    "course_code": "PHRA 1247",
+    "credits": "2 semester hours",
+    "prerequisites": [],
+    "description": "Advanced concepts of Pharmaceutical Mathematics. One hour lecture, two hours lab per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 201
+  },
+  {
+    "course_name": "PHRA 1306 Computerized Drug Delivery Systems",
+    "course_code": "PHRA 1306",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Fundamentals of pharmacy computer information systems and technology within the health care system. Includes specialized skills in the production of pharmaceutical documentation using selected pharmacy software packages and an overview of equipment and devices for drug distribution, and preparation.",
+    "source": "cisco_catalog.pdf",
+    "page": 201
+  },
+  {
+    "course_name": "Pharmacy Third Party Payment",
+    "course_code": "PHRA 1340",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Overview of third party payment and its impact on health care. Includes the principles and practices of managed care pharmacy, Medicaid and Medicare, payment plans, reimbursement methods, and formularies.",
+    "source": "cisco_catalog.pdf",
+    "page": 201
+  },
+  {
+    "course_name": "PHRA 1349 Institutional Pharmacy Practice",
+    "course_code": "PHRA 1349",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Fundamentals of the diverse roles and practice of pharmacy technicians in an institutional pharmacy setting. In-depth coverage of hospital pharmacy organization, work flow and personnel, safety techniques, data entry, packaging and labeling operations, inpatient drug distribution systems including investigational drugs, continuous quality improvement and inventory control. Two hours lecture, two hours lab per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 202
+  },
+  {
+    "course_name": "Pharmacy Drug Therapy and Treatment",
+    "course_code": "PHRA 1441",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Study of therapeutic agents, their classifications, properties, actions, and effects on the human body and their role in the management of disease. Four hours lecture per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 202
+  },
+  {
+    "course_name": "Clinical II Pharmacy Technician",
+    "course_code": "PHRA 2260",
+    "credits": "4",
+    "prerequisites": [],
+    "description": "A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision is provided by the clinical professional. Nine clinical hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 202
+  },
+  {
+    "course_name": "PHRA 2460 Clinical II",
+    "course_code": "PHRA 2460",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills and concepts. Direct supervision is provided by the clinical professional. Twelve clinical hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 203
+  },
+  {
+    "course_name": "PHIL 1301 Introduction to Philosophy",
+    "course_code": "PHIL 1301",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A study of major issues in philosophy and/or the work of major philosophical figures in philosophy. Topics in philosophy may include theories of reality, theories of knowledge, theories of value, and their practical applications.",
+    "source": "cisco_catalog.pdf",
+    "page": 203
+  },
+  {
+    "course_name": "PHED 1331 Physical Education for Elementary Education Majors",
+    "course_code": "PHED 1331",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "An overview of the program of activities in elementary school physical education. Includes the study and practice of activities and principles that promote physical fitness with an emphasis on historical development, philosophical implications, physical fitness, and kinesiology.",
+    "source": "cisco_catalog.pdf",
+    "page": 203
+  },
+  {
+    "course_name": "PHYS 1401 College Physics I",
+    "course_code": "PHYS 1401",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "MATH 2412",
+      "Math 1316"
+    ],
+    "description": "Fundamental principles of physics, using algebra and trigonometry; the principles and applications of classical mechanics and thermodynamics, including harmonic motion, mechanical waves and sound, physical systems, Newton\u2019s Laws of Motion, and gravitation and other fundamental forces; with emphasis on problem solving. Three lecture hours, four laboratory hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 204
+  },
+  {
+    "course_name": "PHYS 1403 Stars and Galaxies",
+    "course_code": "PHYS 1403",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Study of stars, galaxies, and the universe outside our solar system. Three lecture hours, three laboratory hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 204
+  },
+  {
+    "course_name": "PHYS 1404 Solar System",
+    "course_code": "PHYS 1404",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Study of the sun and its solar system, including its origin. Three lecture hours, three laboratory hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 205
+  },
+  {
+    "course_name": "PHYS 2425 University Physics I",
+    "course_code": "PHYS 2425",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "MATH 2413",
+      "approval of chairperson"
+    ],
+    "description": "Fundamental principles of physics, using calculus, for science, computer science, and engineering majors; the principles and applications of classical mechanics, including harmonic motion, physical systems and thermodynamics; and emphasis on problem solving.",
+    "source": "cisco_catalog.pdf",
+    "page": 205
+  },
+  {
+    "course_name": "Statistical Methods in Psychology",
+    "course_code": "PSYC 2317",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "This course covers descriptive and inferential statistics used in psychological research and assessment, including measurement, characteristics of distributions; measures of central tendency and variability; transformed scores; correlation and regression; probability theory; and hypotheses testing and inference.",
+    "source": "cisco_catalog.pdf",
+    "page": 206
+  },
+  {
+    "course_name": "PSYC 2320 Abnormal Psychology",
+    "course_code": "PSYC 2320",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "PSYC 2301"
+    ],
+    "description": "This course provides an introduction to the psychological, biological, and socio-cultural factors involved in the development, diagnosis, and treatment of psychological disorders. It includes a review of the historical understanding of abnormal behavior and the development of modern diagnostic systems. It includes discussion of psychological research and practice as it relates to mental health and psychological functioning as well as legal and ethical issues.",
+    "source": "cisco_catalog.pdf",
+    "page": 206
+  },
+  {
+    "course_name": "Contracts Forms and Addenda",
+    "course_code": "RELE 1300",
+    "credits": "3 Semester Hours",
+    "prerequisites": [],
+    "description": "Promulgated Contract Forms, including unauthorized practice of law, broker\u2014lawyer committee, current promulgated and approved forms, commission rules governing use forms and case studies involving use of forms. Three hours lecture per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 206
+  },
+  {
+    "course_name": "Real Estate Investment",
+    "course_code": "RELE 1307",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Characteristics of real estate investments. Includes techniques of investment analysis, time-valued money, discounted and non-discounted investment criteria, leverage, tax shelters, depreciation, and applications to property tax.",
+    "source": "cisco_catalog.pdf",
+    "page": 207
+  },
+  {
+    "course_name": "RELE 1315 Property Management",
+    "course_code": "RELE 1315",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A study of the role of the property manager, landlord policies, operational guidelines, leases, lease negotiations, tenant relations, maintenance, reports, habitability laws, and the Fair Housing Act.",
+    "source": "cisco_catalog.pdf",
+    "page": 207
+  },
+  {
+    "course_name": "RELE 1321 Real Estate Marketing",
+    "course_code": "RELE 1321",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Real estate professionalism and ethics; characteristics of successful salespersons, time management; psychology of marketing; listing procedures; advertising; negotiating and closing financing; and the deceptive trade practice act and commercial code. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 207
+  },
+  {
+    "course_name": "RELE 2331 Real Estate Brokerage",
+    "course_code": "RELE 2331",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A study of law of agency, planning and organization, operational policies and procedures, recruiting, selection and training of personnel, records and control, and real estate firm analysis and expansion criteria. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 208
+  },
+  {
+    "course_name": "Respiratory Home Care/Rehabilitation",
+    "course_code": "RSPT 1141",
+    "credits": "1 semester hour",
+    "prerequisites": [
+      "RSPT 2210",
+      "RSPT 1340",
+      "RSPT 2317",
+      "RSPT 2266"
+    ],
+    "description": "A study of respiratory home care/rehabilitation equipment, procedures, and patient education. One hour lecture per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 208
+  },
+  {
+    "course_name": "RSPT 1261 Clinical Respiratory Care",
+    "course_code": "RSPT 1261",
+    "credits": "2 semester hours",
+    "prerequisites": [
+      "RSPT 1207"
+    ],
+    "description": "A health-related work-based learning experience that enables the student to apply specialized occupational theory, skills, and concepts. Direct supervision is provided by the clinical professional. Eight hours clinical per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 209
+  },
+  {
+    "course_name": "RSPT 1340 Advanced Cardiopulmonary Anatomy and Physiology",
+    "course_code": "RSPT 1340",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Provides an advanced presentation of anatomy and physiology of the cardiovascular and pulmonary system. Two lecture hours and four lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 210
+  },
+  {
+    "course_name": "RSPT 2139 Advanced Cardiac Life Support",
+    "course_code": "RSPT 2139",
+    "credits": "1 semester hour",
+    "prerequisites": [
+      "RSPT 1160"
+    ],
+    "description": "This course addresses current skills and knowledge pertinent to Advanced Cardiac Life Support with an emphasis on airway management. Designed to develop skills for resuscitation of the adult. Includes strategies for managing and stabilizing the cardiopulmonary arrested patient. The student will receive certification.",
+    "source": "cisco_catalog.pdf",
+    "page": 210
+  },
+  {
+    "course_name": "RSPT 2167 Practicum-Respiratory Care",
+    "course_code": "RSPT 2167",
+    "credits": "1",
+    "prerequisites": [
+      "RSPT 2267"
+    ],
+    "description": "Practical, general workplace training supported by an individualized learning plan developed by the employer, college, and student. Sixteen hours clinical per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 210
+  },
+  {
+    "course_name": "RSPT 2210 Cardiopulmonary Disease",
+    "course_code": "RSPT 2210",
+    "credits": "2 semester hours",
+    "prerequisites": [
+      "RSPT 1340"
+    ],
+    "description": "Etiology, pathogenesis, pathology, diagnosis, history, prognosis, manifestations, treatment, and detection of cardiopulmonary diseases. One hour lecture per week, four hour lab per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 211
+  },
+  {
+    "course_name": "Simulations in Respiratory Care",
+    "course_code": "RSPT 2231",
+    "credits": "2 semester hour",
+    "prerequisites": [
+      "RSPT 2267",
+      "RSPT 1141",
+      "RSPT 1329",
+      "RSPT 1240",
+      "RSPT 2210",
+      "RSPT 1101",
+      "RSPT 2317",
+      "RSPT 2314",
+      "RSPT 2353"
+    ],
+    "description": "Theory of clinical simulation examinations. Includes construction types, scoring, and mechanics of taking the computerized simulation examination. One hour lecture, four hours lab per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 211
+  },
+  {
+    "course_name": "RSPT 2267 Practicum\u2014 Respiratory Care",
+    "course_code": "RSPT 2267",
+    "credits": "2 semester hours",
+    "prerequisites": [
+      "RSPT 2266"
+    ],
+    "description": "Practical, general workplace training supported by an individualized learning plan developed by the employer, college and student. Fourteen hours clinical experience per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 211
+  },
+  {
+    "course_name": "Critical Care Monitoring",
+    "course_code": "RSPT 2355",
+    "credits": "3 semester hours",
+    "prerequisites": [
+      "RSPT 2314",
+      "RSPT 2210",
+      "RSPT 1240",
+      "RSPT 2266"
+    ],
+    "description": "Advanced monitoring techniques used to assess a patient in the critical care setting. Two hours lecture, four hours lab per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 212
+  },
+  {
+    "course_name": "Introductory Sociology",
+    "course_code": "SOCI 1301",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "The scientific study of human society, including ways in which groups, social institutions, and individuals affect each other. Causes of social stability and social change are explored through the application of various theoretical perspectives, key concepts, and related research methods of sociology. Analysis of social issues in their institutional context may include topics such as social stratification, gender, race/ethnicity, and deviance.",
+    "source": "cisco_catalog.pdf",
+    "page": 212
+  },
+  {
+    "course_name": "SOCI 2301 Marriage and the Family",
+    "course_code": "SOCI 2301",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "Sociological and theoretical analysis of the structures and functions of the family, the varied cultural patterns of the American family, and the relationships that exist among the individuals within the family, as well as the relationships that exist between the family and other institutions in society.",
+    "source": "cisco_catalog.pdf",
+    "page": 212
+  },
+  {
+    "course_name": "SPAN 1411 Beginning Spanish I",
+    "course_code": "SPAN 1411",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "Basic Spanish language skills in listening, speaking, reading, and writing within a cultural framework. Students will acquire the vocabulary and grammatical structures necessary to communicate and comprehend at the beginner level. Three lecture hours, one lab hour per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 213
+  },
+  {
+    "course_name": "SPAN 2311 Intermediate Spanish I",
+    "course_code": "SPAN 2311",
+    "credits": "4",
+    "prerequisites": [
+      "SPAN 1411"
+    ],
+    "description": "The consolidation of skills acquired at the introductory level. Further development of proficiency in listening, speaking, reading and writing. Emphasis on comprehension, appreciation, and interpretation of the cultures of the Spanish-speaking world. Three lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 213
+  },
+  {
+    "course_name": "SPCH 1321 Business & Professional Communication",
+    "course_code": "SPCH 1321",
+    "credits": "3",
+    "prerequisites": [],
+    "description": "Study and application of communication within the business and professional context. Special emphasis will be given to communication competencies in presentations, dyads, teams and technologically mediated formats.",
+    "source": "cisco_catalog.pdf",
+    "page": 214
+  },
+  {
+    "course_name": "HPRS 2201 Pathophysiology",
+    "course_code": "HPRS 2201",
+    "credits": "2 Semester Hours",
+    "prerequisites": [],
+    "description": "Study of the pathology and general health management of diseases and injuries across the life span. Topics include etiology, symptoms, and the physical and psychological reactions to diseases and injuries.",
+    "source": "cisco_catalog.pdf",
+    "page": 214
+  },
+  {
+    "course_name": "Introduction to Surgical Technology",
+    "course_code": "SRGT 1405",
+    "credits": "4 Semester Hours",
+    "prerequisites": [],
+    "description": "Orientation to surgical technology theory, surgical pharmacology and anesthesia, technological sciences, and patient care concepts. Three lecture hours and three lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 214
+  },
+  {
+    "course_name": "Fundamentals of Perioperative Concepts and Techniques",
+    "course_code": "SRGT 1409",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "In-depth coverage of perioperative concepts such as aseptic principles and practices, infectious processes, wound healing, and creation and maintenance of the sterile field. Three lecture hours and four lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 215
+  },
+  {
+    "course_name": "VNSG 1420 Anatomy and Physiology for Allied Health",
+    "course_code": "VNSG 1420",
+    "credits": "",
+    "prerequisites": [],
+    "description": "Study of the structure (anatomy) and function (physiology) of the human body, including the neuroendocrine, integumentary, musculoskeletal, digestive, urinary, reproductive, respiratory, and circulatory systems. Four lecture hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 215
+  },
+  {
+    "course_name": "Intro to Welding Metallurgy",
+    "course_code": "WLDG 1337",
+    "credits": "3 semester hours",
+    "prerequisites": [],
+    "description": "A study of ferrous and nonferrous metals from the ore to the finished product. Emphasis on metal alloys, heat treating, hard surfacing, welding techniques, forging, foundry processes, and mechanical properties of metal including hardness, machinability, and ductility. Two hours lecture, two lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 216
+  },
+  {
+    "course_name": "WLDG 1413 Introduction to Blueprint Reading for Welders",
+    "course_code": "WLDG 1413",
+    "credits": "4 semester hours",
+    "prerequisites": [],
+    "description": "A study of industrial blueprints. Emphasis placed on terminology, symbols, graphic description, and welding processes. Includes systems of measurement and industry standards, as well as interpretation of plans and drawings used by industry to facilitate field application and production.",
+    "source": "cisco_catalog.pdf",
+    "page": 216
+  },
+  {
+    "course_name": "Introduction to SMAW",
+    "course_code": "WLDG 1428",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "WLDG 1421 Intro to Welding Fundamentals"
+    ],
+    "description": "An overview of terminology, safety procedures, and equipment set-up. Practice in performing T-joints, lap joints, and butt joints using self-shielding and dual-shield electrodes.",
+    "source": "cisco_catalog.pdf",
+    "page": 216
+  },
+  {
+    "course_name": "Introduction to Gas Metal Arc Welding (GMAW)",
+    "course_code": "WLDG 1430",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "WLDG 1421 Intro to Welding Fundamentals",
+      "approval of instructor"
+    ],
+    "description": "A study of the principles of gas metal arc welding, set up and use of Gas Metal Arc Welding (GMAW) equipment, and safe use of tools/equipment. Instruction in various joint designs. Two lecture hours, four lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 217
+  },
+  {
+    "course_name": "WLDG 1435 Introduction to Pipe Welding",
+    "course_code": "WLDG 1435",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "WLDG 1421 Intro to Welding Fundamentals"
+    ],
+    "description": "An introduction to welding of pipe using the shielded metal arc welding process (SMAW), including electrode selection, equipment setup, and safe shop practices. Emphasis on weld positions 1G and 2G welds using various electrodes.",
+    "source": "cisco_catalog.pdf",
+    "page": 217
+  },
+  {
+    "course_name": "Intermediate Pipe Welding",
+    "course_code": "WLDG 2406",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "WLDG 1435 Intro to Pipe Welding"
+    ],
+    "description": "A comprehensive course on the welding of pipe using the shielded metal arc welding (SMAW) and/or other processes. Welds will be done using various positions. Topics covered include electrode selection, equipment setup, and safe shop practices.",
+    "source": "cisco_catalog.pdf",
+    "page": 217
+  },
+  {
+    "course_name": "Advanced Shielded Metal Arc Welding (SMAW)",
+    "course_code": "WLDG 2443",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "WLDG 1421 Intro to Welding Fundamentals or approval of instructor"
+    ],
+    "description": "Advanced topics based on accepted welding codes. Training provided with various electrodes in shielded metal arc welding processes with open v-groove joints in all positions. Two hours lecture, four lab hours per week.",
+    "source": "cisco_catalog.pdf",
+    "page": 218
+  },
+  {
+    "course_name": "Advanced Pipe Welding",
+    "course_code": "WLDG 2453",
+    "credits": "4 semester hours",
+    "prerequisites": [
+      "WLDG 1435 Intro to Pipe Welding",
+      "approval of instructor"
+    ],
+    "description": "Advanced topics involving welding of pipe using the shielded metal arc welding (SMAW) process. Topics include electrode selection, equipment setup, and safe shop practices. Emphasis on weld positions 5G and 6G using various electrodes.",
+    "source": "cisco_catalog.pdf",
+    "page": 218
+  }
+]
