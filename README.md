@@ -88,8 +88,8 @@ This generates:
 
 Primary source corpus:
 
-- Cisco College 2023-2024 General Catalog
-  URL: `https://www.cisco.edu/uploads/files/general/Official-Course-Catalog-Published-08.15.23-for-23-24_2023-08-21-144222_llgc.pdf`
+- Cisco College 2025-2026 General Catalog
+  URL: `Uploaded source document (local): data/raw_docs/cisco_catalog.pdf`
   Accessed: `2026-03-29`
   Note: course descriptions, transfer credit policy, financial-aid rules, program requirements, tuition, and academic policies.
 

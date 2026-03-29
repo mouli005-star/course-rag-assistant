@@ -13,6 +13,7 @@ if str(BASE_DIR) not in sys.path:
     sys.path.append(str(BASE_DIR))
 
 from config import get_openai_api_key, warn_python_compatibility
+from rag.course_search import search_course
 from rag.output_formatter import format_assignment_response
 from rag.prompts import GROUNDING_POLICY_PROMPT
 from rag.simple_vector_index import search_simple_vector_index, simple_index_exists
@@ -199,6 +200,24 @@ def _requires_explicit_prereq_support(query: str) -> bool:
     return any(term in lower_query for term in ["prereq", "pre-req", "can i take", "eligible", "co-requisite", "corequisite"])
 
 
+def _looks_course_specific(query: str) -> bool:
+    lower_query = query.lower()
+    if re.search(r"\b[a-z]{3,4}\s*-?\s*\d{4}\b", lower_query):
+        return True
+
+    markers = [
+        "prereq",
+        "prerequisite",
+        "can i take",
+        "eligible",
+        "course code",
+        "course title",
+        "for course",
+        "about course",
+    ]
+    return any(marker in lower_query for marker in markers)
+
+
 def _has_explicit_prereq_language(chunks) -> bool:
     markers = [
         "prereq",
@@ -276,6 +295,20 @@ def _polish_grounded_response(text: str) -> str:
 
 
 def ask(query: str, k: int = 4):
+    matched_courses = search_course(query)
+    matched_course = matched_courses[0] if matched_courses else None
+
+    if _looks_course_specific(query) and not matched_course:
+        response = {
+            "Answer": "I could not find a course with that exact name in the catalog.",
+            "Clarifying questions": [
+                "Could you provide the course code?",
+                "Or confirm the exact course title?",
+            ],
+            "Citations": [],
+        }
+        return response
+
     chunks, retrieval_mode = retrieve_context(query, k=k)
 
     if not chunks:

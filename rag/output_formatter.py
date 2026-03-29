@@ -38,7 +38,7 @@ def format_assignment_response(
         "\n".join(_normalize_lines(why)) or "No supported explanation available.",
         "",
         "Citations:",
-        "\n".join(f"- {line}" for line in citation_lines) or "- No direct catalog citation was available for this response.",
+        "\n".join(f"- {line}" for line in citation_lines),
         "",
         "Clarifying questions (if needed):",
         "\n".join(f"- {line}" for line in clarifying_lines),

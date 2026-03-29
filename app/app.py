@@ -90,6 +90,31 @@ def normalize_course_code(value):
     return str(value or "").upper().replace(" ", "").replace("-", "")
 
 
+def is_confident_course_match(question, match):
+    if not match:
+        return False
+
+    question_text = str(question or "").lower()
+    course_name = str(match.get("course_name") or "").lower()
+    course_code = normalize_course_code(match.get("course_code"))
+
+    explicit_code = re.search(r"\b([A-Za-z]{3,4}\s*-?\s*\d{4})\b", question_text)
+    if explicit_code:
+        return normalize_course_code(explicit_code.group(1)) == course_code
+
+    if course_name and course_name in question_text:
+        return True
+
+    stop_tokens = {
+        "can", "i", "take", "what", "is", "for", "the", "a", "an", "course",
+        "eligible", "am", "to", "are", "prerequisite", "prerequisites", "of", "in",
+    }
+    question_tokens = {token for token in re.findall(r"[a-z0-9]+", question_text) if token not in stop_tokens}
+    name_tokens = set(re.findall(r"[a-z0-9]+", f"{course_name} {course_code.lower()}"))
+
+    return len(question_tokens & name_tokens) >= 2
+
+
 def parse_credit_value(raw_value):
     match = re.search(r"(\d+)", str(raw_value or ""))
     return int(match.group(1)) if match else 3
@@ -247,25 +272,11 @@ def merge_profile(profile, updates):
 def missing_planning_questions(profile, completed_courses):
     questions = []
 
-    if not completed_courses:
-        questions.append("Which courses have you already completed?")
-
     if not profile["major"]:
         questions.append("What is your target major or program?")
 
     if not profile["target_term"]:
         questions.append("Which term are you planning for?")
-
-    if profile["max_credits"] is None and profile["max_courses"] is None:
-        questions.append("What is your maximum course or credit load for the term?")
-
-    if not profile["catalog_year"]:
-        questions.append("Which catalog year should I use?")
-
-    if profile["transfer_credits"] is None:
-        questions.append("Do you have any transfer credits that count toward the program?")
-    elif profile["transfer_credits"] and not profile["transfer_credit_details_provided"]:
-        questions.append("Which transfer credits have already been accepted as equivalent courses?")
 
     return questions[:5]
 
@@ -417,12 +428,15 @@ class Advisor:
     def _eligibility_response(self, question):
         matches = search_course(question)
 
-        if not matches:
+        if not matches or not is_confident_course_match(question, matches[0]):
             return format_assignment_response(
-                answer="Decision: Need more info",
-                why="I could not confidently match the question to a course in the current catalog extract.",
+                answer="I could not find a course with that exact name in the catalog.",
+                why="The request appears course-specific, but the system could not confidently match an exact course title or code.",
                 citations=[],
-                clarifying_questions=["Which exact course name or course code are you asking about?"],
+                clarifying_questions=[
+                    "Could you provide the course code?",
+                    "Or confirm the exact course title?",
+                ],
                 assumptions=[],
             )
 
@@ -604,6 +618,15 @@ class Advisor:
             response = self._policy_response(question)
         else:
             response = self._search_response(question)
+
+        if isinstance(response, dict):
+            response = format_assignment_response(
+                answer=response.get("Answer", "I could not determine a supported answer."),
+                why="The system could not match the request to an exact catalog course and asked for clarification.",
+                citations=response.get("Citations", []),
+                clarifying_questions=response.get("Clarifying questions", []),
+                assumptions=[],
+            )
 
         response = verify_response(response)
 
