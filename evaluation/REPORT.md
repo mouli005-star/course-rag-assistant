@@ -9,7 +9,7 @@
 
 ## Rubric
 
-- Citation coverage: response includes a `Citations:` section with grounded catalog citations in `pdf name | page X` format.
+- Citation coverage: response includes a `Citations:` section with grounded catalog citations including source URL/reference plus section/chunk context.
 - Eligibility correctness: `Decision:` line matches the expected eligible/not-eligible outcome for the prerequisite test case.
 - Abstention accuracy: response clearly refuses to invent missing information for schedule, instructor, seat-count, or preference questions.
 

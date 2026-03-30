@@ -22,7 +22,13 @@ def load_eval_set():
 
 
 def has_real_citations(response_text):
-    return "Citations:" in response_text and "cisco_catalog.pdf | page " in response_text
+    lower_text = str(response_text or "").lower()
+    if "citations:" not in lower_text:
+        return False
+
+    has_url = "url:" in lower_text or "http://" in lower_text or "https://" in lower_text
+    has_ref = "ref:" in lower_text or "chunk" in lower_text or "section:" in lower_text
+    return has_url and has_ref
 
 
 def extract_decision(response_text):
@@ -126,7 +132,7 @@ def write_report(summary):
 
 ## Rubric
 
-- Citation coverage: response includes a `Citations:` section with grounded catalog citations in `pdf name | page X` format.
+- Citation coverage: response includes a `Citations:` section with grounded catalog citations including source URL/reference plus section/chunk context.
 - Eligibility correctness: `Decision:` line matches the expected eligible/not-eligible outcome for the prerequisite test case.
 - Abstention accuracy: response clearly refuses to invent missing information for schedule, instructor, seat-count, or preference questions.
 

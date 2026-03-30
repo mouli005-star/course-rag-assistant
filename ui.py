@@ -6,6 +6,7 @@ from uuid import uuid4
 import streamlit as st
 
 from app import Advisor
+from config import get_openai_api_key
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -87,6 +88,10 @@ def create_new_chat():
 
 def build_advisor():
     return Advisor()
+
+
+def has_openai_key_configured():
+    return bool(get_openai_api_key(required=False))
 
 
 def submit_question(question):
@@ -349,6 +354,7 @@ def inject_styles():
 bootstrap_state()
 active_session = get_active_session()
 inject_styles()
+has_openai_key = has_openai_key_configured()
 
 st.markdown("<div class='app-shell'>", unsafe_allow_html=True)
 st.markdown(
@@ -368,6 +374,16 @@ with top_controls[1]:
     if st.button("New chat", use_container_width=True):
         create_new_chat()
         st.rerun()
+
+if not has_openai_key:
+    st.warning(
+        "OpenAI API key is missing. Add your key before starting chat."
+    )
+    st.markdown(
+        "Add this to the project root .env file and restart Streamlit:"
+    )
+    st.code("OPENAI_API_KEY=your_key_here", language="bash")
+    st.caption("File location: .env (project root)")
 
 history = active_session.get("history", [])
 if not history:
@@ -391,7 +407,10 @@ else:
             render_assistant_response(chat["assistant"])
     st.markdown("</div>", unsafe_allow_html=True)
 
-question = st.chat_input("Ask about the Cisco catalog")
+question = st.chat_input(
+    "Ask about the Cisco catalog" if has_openai_key else "Add OPENAI_API_KEY in .env to begin",
+    disabled=not has_openai_key,
+)
 if question:
     with st.chat_message("user"):
         st.markdown(question)

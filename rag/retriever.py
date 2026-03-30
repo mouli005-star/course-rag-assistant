@@ -152,10 +152,13 @@ def retrieve_context(query: str, k: int = 4):
 def _format_citation(metadata):
     page = metadata.get("page")
     page_number = page + 1 if isinstance(page, int) else "unknown"
+    section_heading = metadata.get("section_heading") or f"page {page_number}"
+    chunk_ref = metadata.get("chunk_id") or f"page-{page_number}"
     return build_source_citation(
         metadata.get("source", "unknown"),
-        f"page {page_number}",
-        None,
+        section_heading,
+        chunk_ref,
+        page_number,
     )
 
 

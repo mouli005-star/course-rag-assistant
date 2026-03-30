@@ -8,22 +8,29 @@
 
 ```text
 Answer / Plan:
-Decision: Eligible
-Next step: You can plan to enroll in COSC1337.
+Decision: Not eligible
+Next step: Complete the missing prerequisite courses first, then re-check eligibility.
 
 Why (requirements/prereqs satisfied):
-Decision: Eligible
-- Evidence: no prerequisite courses are listed in the extracted course record.
-Next step: You can plan to enroll in COSC1337.
+Decision: Not eligible
+- Missing prerequisite evidence: COSC 1315 is required before COSC 1337.
+- Missing prerequisite evidence: COSC1436 is listed as unmet.
+- Missing prerequisite evidence: COSC1437 is listed as unmet.
+- Missing prerequisite evidence: COSC 2325 is required before COSC 1337.
+Next step: Complete the missing prerequisite courses first, then re-check eligibility.
 
 Citations:
-- cisco_catalog.pdf | page 152
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: COSC 1315 Introduction to Computer Programming | Ref: course:COSC1315 | Page: 152
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: COURSE DESCRIPTIONS | Ref: cisco_catalog:p152:c1 | Page: 152
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: COURSE DESCRIPTIONS | Ref: cisco_catalog:p153:c1 | Page: 153
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: Computer Organization | Ref: course:COSC2325 | Page: 152
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: Programming Fundamentals II | Ref: course:COSC1337 | Page: 152
 
 Clarifying questions (if needed):
 
 
 Assumptions / Not in catalog:
-- This decision is based on the extracted course record and may miss prerequisite text that was not captured in the course extraction output.
+- Prerequisite requirements were inferred from retrieved catalog text because the structured course record had an empty prerequisite list.
 ```
 
 ## Course plan output with justification and citations
@@ -43,12 +50,12 @@ Why (requirements/prereqs satisfied):
 - ENGL 1301: selected for the Computer Science plan because prerequisites are satisfied and it aligns with retrieved program-requirement context. Listed prerequisites: No listed prerequisite.
 
 Citations:
-- cisco_catalog.pdf | page 152
-- cisco_catalog.pdf | page 61
-- cisco_catalog.pdf | page 63
-- cisco_catalog.pdf | page 71
-- cisco_catalog.pdf | page 75
-- cisco_catalog.pdf | page 76
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: ACADEMIC PROGRAMS | Ref: cisco_catalog:p61:c1 | Page: 61
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: ACADEMIC PROGRAMS | Ref: cisco_catalog:p71:c1 | Page: 71
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: ACADEMIC PROGRAMS | Ref: cisco_catalog:p75:c1 | Page: 75
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: ACADEMIC PROGRAMS | Ref: cisco_catalog:p76:c1 | Page: 76
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: COSC 1315 Introduction to Computer Programming | Ref: course:COSC1315 | Page: 152
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: ENGL 1301 Composition I | Ref: course:ENGL1301 | Page: 63
 
 Clarifying questions (if needed):
 
@@ -69,20 +76,20 @@ Assumptions / Not in catalog:
 
 ```text
 Answer / Plan:
-The provided catalog does not include information about which professor usually teaches Programming Fundamentals II in the fall.
+The catalog provided does not include information about which professor usually teaches Programming Fundamentals II in the fall.
 
 Why (requirements/prereqs satisfied):
-The course description for COSC 1337 Programming Fundamentals II is given, including credit hours, prerequisites, and content, but no instructor or professor assignments are mentioned.
+The provided course descriptions mention the content, credit, and prerequisites of Programming Fundamentals II (COSC 1337), but no information is given regarding instructor assignments or usual semesters taught by specific professors.
 
 Citations:
-- cisco_catalog.pdf | page 152
-- cisco_catalog.pdf | page 168
-- cisco_catalog.pdf | page 176
-- cisco_catalog.pdf | page 177
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: COURSE DESCRIPTIONS | Ref: cisco_catalog:p152:c1 | Page: 152
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: COURSE DESCRIPTIONS | Ref: cisco_catalog:p168:c1 | Page: 168
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: COURSE DESCRIPTIONS | Ref: cisco_catalog:p176:c1 | Page: 176
+- Cisco College 2025-2026 General Catalog | URL: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf | Section: COURSE DESCRIPTIONS | Ref: cisco_catalog:p177:c1 | Page: 177
 
 Clarifying questions (if needed):
 
 
 Assumptions / Not in catalog:
-- Information about instructors or faculty assignments for courses is not included in the provided catalog excerpts.
+- Information about course instructors or who typically teaches certain courses in particular semesters is not available in the provided catalog excerpts.
 ```

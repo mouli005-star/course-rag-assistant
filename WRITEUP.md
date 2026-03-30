@@ -1,226 +1,75 @@
-# Agentic RAG Course Planning Assistant – Writeup
-
-## Overview
-
-This project implements an Agentic Retrieval-Augmented Generation (RAG) system that helps students understand course prerequisites and generate semester plans using grounded academic catalog data.
-
-Primary dataset:
-Cisco College 2025–2026 General Catalog.
-
-The catalog includes:
-
-• course inventory
-• degree program requirements
-• prerequisite relationships
-• academic regulations
-
-Example sections:
-Associate of Science programs (around page 70)
-Computer Science courses (around page 152)
-Academic policies including GPA requirements (around page 52) 
-
-The system answers prerequisite questions, generates structured course plans, and provides citations from the catalog.
-
----
-
-## System Architecture
-
-The system follows an agent-style modular workflow.
-
-### 1. Intake Agent
-
-Extracts structured student intent from natural language queries.
-
-Examples:
-completed courses
-degree program
-maximum courses per semester
-academic term
-
----
-
-### 2. Retriever Agent
-
-Finds relevant catalog sections using embeddings.
-
-Vector database:
-ChromaDB
-
-Embedding model:
-text-embedding-3-small
-
-Retrieval:
-top-k similarity search
-
----
-
-### 3. Reasoning Agent
-
-Determines:
-
-• whether prerequisites are satisfied
-• which courses are eligible next
-• missing academic requirements
-
-Uses retrieved catalog chunks as context.
-
----
-
-### 4. Planning Agent
-
-Generates semester course plan based on:
-
-• prerequisite graph
-• degree structure
-• user constraints (max courses)
-
-Produces structured output.
-
----
-
-### 5. Verifier Agent
-
-Ensures:
-
-• answers are grounded in catalog text
-• citations are provided
-• hallucinations are avoided
-• system abstains when info not present
-
----
-
-## RAG Pipeline
-
-### Document ingestion
-
-Catalog PDF parsed and converted into text chunks.
-
-### Chunking strategy
-
-Chunk size: 800 tokens
-Overlap: 120 tokens
-
-Chosen to preserve prerequisite relationships inside course descriptions.
-
----
-
-### Embeddings
-
-Model:
-text-embedding-3-small
-
-Selected for good semantic accuracy with low cost.
-
----
-
-### Vector database
-
-ChromaDB used to store embeddings and enable fast retrieval.
-
----
-
-### Retrieval configuration
-
-Top-k retrieval used to provide relevant context for reasoning agent.
-
----
-
-## Dataset
-
-Primary source:
-
-Cisco College 2025–2026 General Catalog 
-
-Contains:
-
-course descriptions
-degree requirements
-academic regulations
-program pathways
-
-Supports multi-hop reasoning questions such as:
-
-prerequisite chains
-degree eligibility
-course planning constraints
-
----
-
-## Evaluation Methodology
-
-Evaluation dataset includes 25 queries covering:
-
-prerequisite eligibility questions
-multi-step prerequisite chains
-degree requirement questions
-course planning queries
-missing-information scenarios
-
-Evaluation verifies:
-
-answers include citations
-system abstains when answer not found
-planner respects prerequisite dependencies
-
----
-
-## Output Structure
-
-All responses follow structured format:
-
-Answer / Plan
-
-Why
-
-Citations
-
-Clarifying questions
-
-Assumptions
-
----
-
-## Limitations
-
-Course naming variations may require clarification.
-
-Course availability may vary by academic term.
-
-Catalog updates may change prerequisite structures.
-
----
-
-## Future Improvements
-
-support multiple catalogs
-
-improve fuzzy matching of course names
-
-include scheduling constraints such as time conflicts
-
-add student profile memory
-
----
-
-## How to run
-
-pip install -r requirements.txt
-
-streamlit run ui.py
-
----
-
-## Repository
-
-https://github.com/mouli005-star/course-rag-assistant
-
----
-
-## Alignment with assignment requirements
-
-Uses RAG pipeline
-Implements agent-style workflow
-Provides grounded citations
-Handles missing information safely
-Includes evaluation dataset
-Includes UI interface
+# Agentic RAG Challenge - Short Write-Up (Assessment 1)
+
+## Live Demo
+https://mouli005-star-course-rag-assistant-ui-zrphms.streamlit.app/
+
+## 1) Catalog and Sources
+Institution/catalog used: Cisco College 2025-2026 General Catalog.
+
+Sources documentation is maintained in `data/processed/sources.json` with:
+- source reference
+- date accessed
+- coverage note
+
+Current source record:
+- URL/reference: Uploaded source document (local): data/raw_docs/cisco_catalog.pdf
+- Date accessed: 2026-03-29
+- Covers course descriptions, prerequisites, program requirements, and policy sections.
+
+## 2) Architecture Overview (LangChain-equivalent staged design)
+The system is implemented as modular stages (equivalent to router + retrieval + verifier chains):
+- Intake/Profile stage: extracts/updates student context (completed courses, major, term, limits).
+- Retriever stage: fetches grounded catalog evidence.
+- Reasoning/Planner stage: answers prerequisite questions and builds next-term suggestions.
+- Verifier stage: normalizes output into the required assignment structure and guards against unsupported responses.
+
+This design provides agent-like separation without requiring a full multi-agent runtime.
+
+## 3) RAG Pipeline and Tradeoffs
+- Ingestion: PDF catalog parsing from `data/raw_docs`.
+- Chunking: recursive chunking with chunk_size=1000 and chunk_overlap=200.
+- Embeddings: OpenAI `text-embedding-3-small`.
+- Vector store: Chroma persistent store (`data/vector_db`) plus a simple embedding fallback index.
+- Retrieval config: top-k retrieval (default k=4), with layered fallback:
+	1. simple vector index
+	2. Chroma similarity search
+	3. lexical fallback over extracted text
+
+Tradeoff: fallback retrieval improves reliability across environments, but lexical fallback can be less precise than vector similarity.
+
+## 4) Prompts and Roles
+- Grounding prompt enforces: use only provided context, do not invent missing policy/prereq facts, and return structured sections.
+- Extraction prompt enforces JSON-only course extraction for cleaner downstream prerequisite graphing.
+- Router/handler logic supports required behaviors:
+	- prerequisite eligibility responses
+	- course planning responses
+	- clarifying questions when key profile data is missing
+	- safe abstention when information is not in provided materials
+
+## 5) Output Format Alignment
+Responses are standardized to:
+- Answer / Plan
+- Why (requirements/prereqs satisfied)
+- Citations
+- Clarifying questions (if needed)
+- Assumptions / Not in catalog
+
+## 6) Evaluation Summary
+Evaluation set contains 25 queries with required distribution:
+- 10 prerequisite checks
+- 5 prerequisite chain questions
+- 5 program requirement questions
+- 5 not-in-docs/trick questions
+
+Current reported results:
+- Citation coverage rate: 100.0%
+- Eligibility correctness (prereq checks): 70.0% (7/10)
+- Abstention accuracy (not-in-docs): 100.0% (5/5)
+
+## 7) Key Failure Modes and Next Improvements
+Observed gaps and improvements:
+- Improve prerequisite correctness on edge cases (course extraction/prereq normalization quality).
+- Strengthen citation strictness to include URL + section/chunk references consistently.
+- Expand clarifying gates for planning (catalog year, grades, transfer-credit detail checks where applicable).
+
+This implementation is end-to-end runnable (index build, chat interaction, and evaluation) and aligned to the assignment goals for grounded prerequisite and course-planning assistance.

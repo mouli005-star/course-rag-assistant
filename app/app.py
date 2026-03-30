@@ -80,6 +80,8 @@ GENERIC_COURSE_DISCOVERY_PHRASES = [
     "list all courses",
 ]
 
+COURSE_CODE_PATTERN = re.compile(r"^[A-Z]{3,4}\d{4}$")
+
 
 def load_courses():
     with open(COURSES_FILE, "r", encoding="utf-8") as f:
@@ -88,6 +90,10 @@ def load_courses():
 
 def normalize_course_code(value):
     return str(value or "").upper().replace(" ", "").replace("-", "")
+
+
+def is_valid_course_code(value):
+    return bool(COURSE_CODE_PATTERN.match(normalize_course_code(value)))
 
 
 def is_confident_course_match(question, match):
@@ -187,12 +193,13 @@ def build_course_lookup():
 def format_course_citation(course):
     page = course.get("page")
     page_number = page + 1 if isinstance(page, int) else "unknown"
-    course_name = course.get("course_name") or f"Page {page_number}"
-    code = course.get("course_code", "unknown course")
+    section_heading = course.get("course_name") or f"page {page_number}"
+    code = normalize_course_code(course.get("course_code", "")) or f"page-{page_number}"
     return build_source_citation(
         course.get("source", "unknown"),
-        f"page {page_number}",
-        None,
+        section_heading,
+        f"course:{code}",
+        page_number,
     )
 
 
@@ -200,10 +207,13 @@ def format_chunk_citation(chunk):
     metadata = chunk.get("metadata", {})
     page = metadata.get("page")
     page_number = page + 1 if isinstance(page, int) else "unknown"
+    section_heading = metadata.get("section_heading") or f"page {page_number}"
+    chunk_ref = metadata.get("chunk_id") or f"page-{page_number}"
     return build_source_citation(
         metadata.get("source", "unknown"),
-        f"page {page_number}",
-        None,
+        section_heading,
+        chunk_ref,
+        page_number,
     )
 
 
@@ -278,7 +288,66 @@ def missing_planning_questions(profile, completed_courses):
     if not profile["target_term"]:
         questions.append("Which term are you planning for?")
 
+    if not profile["catalog_year"]:
+        questions.append("Which catalog year should I use for requirement rules (for example, 2025-2026)?")
+
+    if profile["transfer_credits"] is None:
+        questions.append("Do you have transfer credits that should be counted in your completed courses?")
+
+    if profile["transfer_credits"] and not profile["transfer_credit_details_provided"]:
+        questions.append("Please list your transfer-credit course codes so I can apply prerequisite checks correctly.")
+
+    if not completed_courses:
+        questions.append("Which courses have you already completed (course codes)?")
+
     return questions[:5]
+
+
+def _infer_prereqs_from_retrieved_text(course, k=8):
+    course_code = normalize_course_code(course.get("course_code", ""))
+    if not course_code:
+        return [], []
+
+    search_terms = [course_code, str(course.get("course_name", "")), "prerequisite"]
+    query = " ".join(term for term in search_terms if term).strip()
+    chunks, _ = retrieve_context(query, k=k)
+
+    inferred = []
+    citations = []
+
+    prereq_markers = ("prereq", "pre-req", "prerequisite", "co-requisite", "corequisite")
+    code_pattern = re.compile(r"\b([A-Za-z]{3,4}\s*-?\s*\d{4})\b")
+
+    for chunk in chunks:
+        text = str(chunk.get("text", ""))
+        lowered = text.lower()
+
+        if not any(marker in lowered for marker in prereq_markers):
+            continue
+
+        matched_segments = []
+        for line in text.splitlines():
+            normalized_line = normalize_course_code(line)
+            if course_code in normalized_line and any(marker in line.lower() for marker in prereq_markers):
+                matched_segments.append(line)
+
+        if not matched_segments:
+            normalized_chunk = normalize_course_code(text)
+            if course_code in normalized_chunk:
+                matched_segments.append(text)
+
+        found_in_chunk = False
+        for segment in matched_segments:
+            for match in code_pattern.findall(segment):
+                candidate = normalize_course_code(match)
+                if is_valid_course_code(candidate) and candidate != course_code and candidate not in inferred:
+                    inferred.append(candidate)
+                    found_in_chunk = True
+
+        if found_in_chunk:
+            citations.append(format_chunk_citation(chunk))
+
+    return inferred, sorted(set(citations))
 
 
 def major_field_hints(major):
@@ -429,10 +498,12 @@ class Advisor:
         matches = search_course(question)
 
         if not matches or not is_confident_course_match(question, matches[0]):
+            fallback_chunks, _ = retrieve_context(question, k=2)
+            fallback_citations = [format_chunk_citation(chunk) for chunk in fallback_chunks]
             return format_assignment_response(
                 answer="I could not find a course with that exact name in the catalog.",
                 why="The request appears course-specific, but the system could not confidently match an exact course title or code.",
-                citations=[],
+                citations=sorted(set(fallback_citations)),
                 clarifying_questions=[
                     "Could you provide the course code?",
                     "Or confirm the exact course title?",
@@ -442,12 +513,42 @@ class Advisor:
 
         course = matches[0]
         canonical_course = self.course_lookup.get(normalize_course_code(course.get("course_code", "")), course)
-        result = check_eligibility(
-            completed_courses=self.completed_courses,
-            target_course=canonical_course["course_code"],
-        )
+        listed_prereqs = [
+            normalize_course_code(item)
+            for item in canonical_course.get("prerequisites", [])
+            if is_valid_course_code(item)
+        ]
 
-        citations = [format_course_citation(canonical_course)]
+        inferred_prereqs = []
+        inferred_citations = []
+
+        if not listed_prereqs:
+            inferred_prereqs, inferred_citations = _infer_prereqs_from_retrieved_text(canonical_course)
+
+        effective_prereqs = listed_prereqs or inferred_prereqs
+        completed_set = {normalize_course_code(code) for code in self.completed_courses}
+
+        if effective_prereqs:
+            missing_prereqs = sorted([pr for pr in effective_prereqs if pr not in completed_set])
+            decision = "Eligible" if not missing_prereqs else "Not eligible"
+            if decision == "Eligible":
+                next_step = f"You can plan to enroll in {normalize_course_code(canonical_course.get('course_code', 'this course'))}."
+            else:
+                next_step = "Complete the missing prerequisite courses first, then re-check eligibility."
+
+            result = {
+                "decision": decision,
+                "target_course": normalize_course_code(canonical_course.get("course_code", "")),
+                "missing_prereqs": missing_prereqs,
+                "next_step": next_step,
+            }
+        else:
+            result = check_eligibility(
+                completed_courses=self.completed_courses,
+                target_course=canonical_course["course_code"],
+            )
+
+        citations = [format_course_citation(canonical_course), *inferred_citations]
         evidence_lines = []
 
         for prereq in result["missing_prereqs"]:
@@ -459,10 +560,13 @@ class Advisor:
                 evidence_lines.append(f"- Missing prerequisite evidence: {prereq} is listed as unmet.")
 
         if not result["missing_prereqs"]:
-            listed_prereqs = canonical_course.get("prerequisites", [])
             if listed_prereqs:
                 evidence_lines.append(
                     "- Evidence: the course's listed prerequisites are all present in the recorded completed-course list."
+                )
+            elif inferred_prereqs:
+                evidence_lines.append(
+                    "- Evidence: prerequisite language was inferred from retrieved catalog excerpts and all identified requirements are satisfied."
                 )
             else:
                 evidence_lines.append("- Evidence: no prerequisite courses are listed in the extracted course record.")
@@ -474,7 +578,9 @@ class Advisor:
         ]
 
         assumptions = []
-        if not canonical_course.get("prerequisites"):
+        if inferred_prereqs:
+            assumptions.append("Prerequisite requirements were inferred from retrieved catalog text because the structured course record had an empty prerequisite list.")
+        elif not canonical_course.get("prerequisites"):
             assumptions.append("This decision is based on the extracted course record and may miss prerequisite text that was not captured in the course extraction output.")
 
         return format_assignment_response(
