@@ -95,15 +95,6 @@ Primary source corpus:
 
 Additional source metadata is stored in `data/processed/sources.json`.
 
-## Assignment Mapping
-
-- Grounded answers with citations: yes
-- Prerequisite reasoning with decision and next step: yes
-- Course-plan generation with clarifying questions: yes
-- Safe abstention for unsupported questions: yes
-- Evaluation set with 25 queries: yes
-- Streamlit demo UI: yes
-
 ## Known Limits
 
 - The corpus currently uses one primary published catalog PDF rather than multiple website pages.
