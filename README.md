@@ -3,6 +3,22 @@
 Option 1 submission for the Purple Merit Technologies AI/ML Engineer Intern assessment:
 `Agentic RAG Challenge: Prerequisite & Course Planning Assistant (Catalog-Grounded)`.
 
+#Prerequisites
+
+Before running the application, you must provide your own LLM API key.
+
+The project supports:
+
+OpenAI API key
+Google Gemini API key
+
+Add that in `.env` here :
+
+```env
+OPENAI_API_KEY=your_key_here
+```
+
+
 ## What this project does
 
 - Answers prerequisite and catalog-policy questions with grounded citations.
@@ -38,11 +54,6 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Create `.env` with:
-
-```env
-OPENAI_API_KEY=your_key_here
-```
 
 ## Running the app
 
